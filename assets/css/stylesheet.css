@@ -5,16 +5,24 @@
     padding: 0;
     border: none;
 }
-
+/*general style*/
 body {
     font-family: Akshar, Helvetica, sans-serif;
     font-weight: 300;
     background-color: #DFF3E4;
 }
-
-/*heading and logo*/
-
-h1 {
+/*headings and main-title style*/
+h1, h2 {
     font-family: Acme, Helvetica, sans-serif;
+    letter-spacing: 2px;
 }
+
+#main-title {
+    background-color: #0D451B;
+    color: whitesmoke;
+    text-decoration: none;
+    font-size: 280%;
+    float: left;   
+}
+
 
