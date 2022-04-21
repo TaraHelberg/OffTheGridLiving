@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Akshar:wght@300&display=swap');
 
 * {
     margin: 0;
@@ -7,9 +7,14 @@
 }
 
 body {
-    font-family: Acme, Helvetica, sans-serif;
+    font-family: Akshar, Helvetica, sans-serif;
     font-weight: 300;
     background-color: #DFF3E4;
 }
 
+/*heading and logo*/
+
+h1 {
+    font-family: Acme, Helvetica, sans-serif;
+}
 
