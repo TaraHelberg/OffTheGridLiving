@@ -66,11 +66,14 @@ a:hover{
     border-bottom: 2px solid whitesmoke;
 }  
 /*main image*/
-
+#main-image {
+    display: flex;
+    justify-content: center;  
+}
  
 /*footer style*/
 
-/*footer {
+footer {
     background: url('../image/furnleaves.jpeg');
     background-size: cover;
     height: 60px;
