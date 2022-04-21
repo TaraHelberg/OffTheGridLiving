@@ -67,15 +67,10 @@ a:hover{
 }  
 /*main image*/
 
-#main-image {
-    height: 100px;
-    width: 80%;
-    border: 2px solid black;
-}
-
+ 
 /*footer style*/
 
-footer {
+/*footer {
     background: url('../image/furnleaves.jpeg');
     background-size: cover;
     height: 60px;
