@@ -75,5 +75,33 @@ a:hover{
     border: 2px solid black;
 }
 
+/*footer style*/
 
+footer {
+    background: url('../image/furnleaves.jpeg');
+    background-size: cover;
+    height: 60px;
+    background-position: center center;
+}
 
+.social-media {
+    text-align: right;
+}
+
+.social-media > li {
+   display: inline;
+}
+
+h6 {
+    text-align: left;
+    font-size: 120%;
+    padding: 0;
+    color: whitesmoke;
+}
+
+.social-media i {
+    font-size: 120%;
+    margin: 1%;
+    padding: 0;
+    color: whitesmoke;
+}
