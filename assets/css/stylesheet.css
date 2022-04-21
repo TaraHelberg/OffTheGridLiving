@@ -68,10 +68,8 @@ a:hover{
 /*main image*/
 
 #main-image {
-    height: 400px;
+    height: 100px;
     width: 80%;
-    background-image: url(../image/Main-Image.jpg);
-    margin-left: 10%;
     border: 2px solid black;
 }
 
@@ -85,7 +83,7 @@ footer {
 }
 
 .social-media {
-    text-align: right;
+       text-align: right;
 }
 
 .social-media > li {
@@ -95,8 +93,8 @@ footer {
 h6 {
     text-align: left;
     font-size: 120%;
-    padding: 0;
     color: whitesmoke;
+    padding: 0;
 }
 
 .social-media i {
@@ -105,3 +103,5 @@ h6 {
     padding: 0;
     color: whitesmoke;
 }
+
+
