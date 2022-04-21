@@ -51,6 +51,7 @@ h1, h2 {
 #menu li {
     margin-right: 30px;
     float: right; 
+    list-style: none;
     margin: 1%;
 }
 
