@@ -8,14 +8,13 @@
 /*general style*/
 body {
     font-family: Akshar, Helvetica, sans-serif;
-    font-weight: 300;
-    background-color: #DFF3E4;
+    font-weight: 300;  
 }
 /*header image*/
 header {
     background: url('../image/furnleaves.jpeg');
     background-size: cover;
-    height: 100px;
+    height: 80px;
     background-position: center center;
 }
 /*headings and main-title style*/
@@ -28,9 +27,9 @@ h1, h2 {
 #title {
     color: whitesmoke;
     text-decoration: none;
-    font-size: 280%;
+    font-size: 260%;
     float: left; 
-    margin: 1%;  
+    margin: 0;  
 }
 /* navigation link style*/
 #menu {
@@ -45,7 +44,7 @@ h1, h2 {
 #menu ul {
     display: flex;
     justify-content: flex-end;
-    flex-wrap:wrap;
+    flex-wrap: wrap;
 }
 
 #menu li {
