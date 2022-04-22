@@ -14,7 +14,7 @@ body {
 header {
     background: url('../image/furnleaves.jpeg');
     background-size: cover;
-    height: 80px;
+    height: 70px;
     background-position: center center;
 }
 /*headings and main-title style*/
@@ -38,7 +38,7 @@ h1, h2 {
 }
 
 #menu, #title {
-    line-height: 80px;
+    line-height: 70px;
 }
 
 #menu ul {
@@ -59,47 +59,53 @@ h1, h2 {
     text-decoration: none;
 }
 
-a:hover{
+#menu a:hover{
     border-bottom: 2px solid whitesmoke;
   }
+
 .active {
     border-bottom: 2px solid whitesmoke;
 }  
 /*main image*/
 #main-image {
     display: flex;
-    justify-content: center;  
+    justify-content: center; 
+    border-image: 3px solid black;
 }
  
 /*footer style*/
+.image-container {
+    display: inline-block;
+    border: 2px solid black; 
+}
 
 footer {
     background: url('../image/furnleaves.jpeg');
     background-size: cover;
     height: 60px;
     background-position: center center;
+    border: 2px solid black;
 }
 
 .social-media {
-       text-align: right;
+    position: absolute;
+    bottom: 0;
+    font-size: 20px;
 }
 
 .social-media > li {
-   display: inline;
-}
-
-h6 {
-    text-align: left;
-    font-size: 120%;
-    color: whitesmoke;
-    padding: 0;
+    list-style: none;
+    display: inline;
+    margin: 10px;
 }
 
 .social-media i {
-    font-size: 120%;
-    margin: 1%;
-    padding: 0;
+    color: whitesmoke; 
+}
+
+h6 {
     color: whitesmoke;
+    font-size: 20px;
 }
 
 
