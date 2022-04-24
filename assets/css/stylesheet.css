@@ -29,6 +29,7 @@ h1,h2 {
 
 h2 {
     text-align: center;
+    margin-top: 50px;
 }
 
 #title {
@@ -37,6 +38,7 @@ h2 {
     font-size: 260%;
     float: left;
     margin: 0;
+    margin-left: 20px;
 }
 
 /* navigation link style*/
@@ -75,15 +77,32 @@ h2 {
     border-bottom: 2px solid whitesmoke;
 }
 
-/*main image*/
-#main-image {
+/*main images*/
+.row {
     display: flex;
-    justify-content: center;
-    border-image: 3px solid black;
+    margin-top: 45px;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+  
+  /* Create three equal columns that sits next to each other */
+  .column {
+    flex: 33.33%;
+    padding: 5px;
+    height: 40px;       
+  }
+
+  img {
+    width:100%;
+    height:300px;
+}
+#introduction {
+    margin-top: 300px
 }
 
+
 /*footer style*/
-#footer {
+/*#footer {
     position: fixed;
     bottom: 0;
     left: 0;
@@ -102,7 +121,7 @@ h2 {
     background-position: center center;
     height: 60px;
     background-attachment: fixed;
-    
+    margin: auto;
 }
 
 h6 {
