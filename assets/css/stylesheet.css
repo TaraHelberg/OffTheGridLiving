@@ -97,12 +97,12 @@ h2 {
     height:300px;
 }
 #introduction {
-    margin-top: 300px
-}
-
+    margin-top: 300px;
+    text-align: center;
+}   
 
 /*footer style*/
-/*#footer {
+#footer {
     position: fixed;
     bottom: 0;
     left: 0;
