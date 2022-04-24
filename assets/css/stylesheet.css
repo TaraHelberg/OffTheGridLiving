@@ -74,37 +74,3 @@ h1, h2 {
 }
  
 /*footer style*/
-.image-container {
-    display: inline-block;
-    border: 2px solid black; 
-}
-
-footer {
-    background: url('../image/furnleaves.jpeg');
-    background-size: cover;
-    height: 60px;
-    background-position: center center;
-    border: 2px solid black;
-}
-
-.social-media {
-    position: absolute;
-    right: 0;
-    font-size: 20px;
-}
-
-.social-media > li {
-    list-style: none;
-    display: inline;
-    margin: 30px;
-}
-
-.social-media i {
-    color: whitesmoke; 
-}
-
-h6 {
-    color: whitesmoke;
-    font-size: 20px;
-}
-
