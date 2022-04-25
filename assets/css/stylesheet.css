@@ -32,6 +32,12 @@ h2 {
     margin-top: 50px;
 }
 
+h3 {
+    font-family: Acme, Helvetica, sans-serif;
+    letter-spacing: 2px;
+    font-size: 150%;
+}
+
 #title {
     color: whitesmoke;
     text-decoration: none;
@@ -101,6 +107,18 @@ h2 {
     text-align: center;
     margin-bottom: 50px;
 }   
+
+/*style internal link about page*/
+#page-link a {
+    color: black;
+    letter-spacing: 4px;
+    text-decoration: none;
+    margin: 3%;
+}
+
+#page-link a:hover {
+    border-bottom: 2px solid rgb(5, 81, 5);
+}
 
 /*footer style*/
 #footer {
