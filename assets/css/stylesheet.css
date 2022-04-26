@@ -109,6 +109,10 @@ img {
     margin-bottom: 50px;
 }
 
+#introduction p {
+    letter-spacing: 2px;
+}
+
 /*footer style*/
 #footer {
     position: sticky;
