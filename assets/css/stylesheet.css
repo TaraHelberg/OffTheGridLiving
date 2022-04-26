@@ -202,3 +202,14 @@ h6 {
     left: 50%;
     transform: translate(-50%, -50%);
 }
+#gallery {
+    margin-top: 500px;
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 0;    
+}
+
+#gallery img {
+    width: 100%;
+}
