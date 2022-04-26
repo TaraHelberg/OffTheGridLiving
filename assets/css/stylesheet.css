@@ -152,7 +152,7 @@ h6 {
 /*style internal link about page*/
 #page-link a {
     color: black;
-    letter-spacing: 4px;
+    letter-spacing: 2px;
     text-decoration: none;
     margin: 3%;
 }
