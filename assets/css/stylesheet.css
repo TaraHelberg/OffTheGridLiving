@@ -150,7 +150,10 @@ h6 {
 }
 
 /*style internal link about page*/
-
+#page-link {
+    margin-top: 20px;
+    text-align: center;
+}
 #page-link a {
     color: black;
     letter-spacing: 2px;
@@ -166,15 +169,15 @@ h6 {
 .row1 {
     display: flex;
     margin-top: 45px;
-    margin-left: 30px;
-    margin-right: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 /* Create two equal columns that sits next to each other */
 .column1 {
     flex: 50%;
-    padding: 60px;
-    height: 60px;
+    padding: 20px;
+    height: 300px;
 }
 
 .column1 p {
