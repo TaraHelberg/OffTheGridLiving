@@ -6,13 +6,13 @@
     border: none;
 }
 
-/*general style*/
+/*general body style*/
 body {
     font-family: Akshar, Helvetica, sans-serif;
     font-weight: 300;
 }
 
-/*header image*/
+/*header image style*/
 header {
     background: url('../image/furnleaves.jpeg') no-repeat center center;
     background-size: cover;
@@ -42,8 +42,7 @@ h3 {
     text-decoration: none;
     font-size: 260%;
     float: left;
-    margin: 0;
-    margin-left: 20px;
+    margin: 0 0 20px 0;
 }
 
 /* navigation link style*/
@@ -95,16 +94,16 @@ h3 {
     height: 40px;
 }
 
-.row ,.column img {
+.row,.column img {
     width: 100%;
-    height: 300px; 
-    border-radius: 8px; 
+    height: 300px;
+    border-radius: 8px;
 }
 
+/* introduction text main screen*/
 #introduction {
-    margin-top: 50px;
+    margin: 50px 0 50px 0;
     text-align: center;
-    margin-bottom: 50px;
 }
 
 #introduction p {
@@ -116,15 +115,15 @@ h3 {
 #footer {
     position: sticky;
     bottom: 0;
-    width: 100%;
+    width: auto; 
     height: 50px;
 }
 
 #footerimage {
     background: url('../image/furnleaves.jpeg') no-repeat center center;
     background-size: cover;
-    height: 50px;
-    margin: auto;
+    height: 60px;
+    margin: 0;
 }
 
 h6 {
@@ -149,7 +148,7 @@ h6 {
 
 .social-media i {
     color: whitesmoke;
-    font-size: 20px;
+    font-size: 30px; 
 }
 
 /*style internal link about page*/
@@ -157,6 +156,7 @@ h6 {
     margin-top: 20px;
     text-align: center;
 }
+
 #page-link a {
     color: black;
     letter-spacing: 2px;
@@ -165,14 +165,12 @@ h6 {
 }
 
 #page-link a:hover {
-    border-bottom: 2px solid rgb(21,71,52);
+    border-bottom: 2px solid rgb(21, 71, 52);
 }
 
 /*About page text and images*/
-
 #history {
-    margin-top: 50px;
-    margin-left: 40px;
+    margin:50px 0 0 40px;
 }
 
 #history p {
@@ -180,12 +178,9 @@ h6 {
     letter-spacing: 2px;
 }
 
-
 .row1 {
     display: flex;
-    margin-top: 45px;
-    margin-left: 20px;
-    margin-right: 20px;
+    margin: 45px 20px 0 20px;
 }
 
 /* Create two equal columns that sits next to each other */
@@ -207,13 +202,16 @@ h6 {
     border: 3px double black;
     border-radius: 8px;
 }
-
+/*Gallery and tour style*/
+/*video style*/
 #video {
     margin-top: 80px;
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    border-radius: 12px;
+    overflow: hidden;
 }
 
 #gallery {
@@ -221,7 +219,7 @@ h6 {
     clear: both;
     line-height: 0;
     column-count: 4;
-    column-gap: 0;    
+    column-gap: 0;
 }
 
 #gallery img {
@@ -229,23 +227,25 @@ h6 {
 }
 
 /* Contact Us style */
+/*/image style*/
 .nightsky {
     background-image: url(../image/earthship-night.jpg);
+    background-position: center; 
     background-size: cover;
-    background-position: center;
     margin: 50px 5%;
     width: auto;
     height: auto;
-    border-radius: 10px;       
+    border-radius: 10px;
 }
 
+/*Form style*/
 .contact_us {
     margin-inline: 25%;
     max-width: 400px;
     padding: 30px;
 }
 
-.contact_us > h3 ,label ,p {
+.contact_us>h3, label, p {
     color: whitesmoke;
     letter-spacing: 2px;
 }
@@ -265,12 +265,11 @@ h3 {
 }
 
 .submitform {
-    margin-top: 10px;
-    margin-bottom: 20px;
+    margin: 10px 0 20px 0;
     font-size: 100%;
     letter-spacing: 2px;
     color: whitesmoke;
-    background-color: rgb(21,71,52);
+    background-color: rgb(21, 71, 52);
     border: 2px solid whitesmoke;
     border-radius: 4px;
     padding: 10px 28px 10px 28px;
@@ -278,5 +277,7 @@ h3 {
 
 .submitform:hover {
     background-color: whitesmoke;
-    color:rgb(21,71,52);
+    color: rgb(21, 71, 52);
 }
+
+/* Media queries */
