@@ -170,6 +170,17 @@ h6 {
 
 /*About page text and images*/
 
+#history {
+    margin-top: 50px;
+    margin-left: 40px;
+}
+
+#history p {
+    color: black;
+    letter-spacing: 2px;
+}
+
+
 .row1 {
     display: flex;
     margin-top: 45px;
