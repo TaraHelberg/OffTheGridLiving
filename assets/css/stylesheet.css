@@ -14,10 +14,9 @@ body {
 
 /*header image*/
 header {
-    background: url('../image/furnleaves.jpeg') no-repeat;
+    background: url('../image/furnleaves.jpeg') no-repeat center center;
     background-size: cover;
     height: 70px;
-    background-position: center center;
 }
 
 /*headings and main-title style*/
@@ -87,14 +86,12 @@ h3 {
 .row {
     display: flex;
     margin-top: 45px;
-    margin-left: 20px;
-    margin-right: 20px;
 }
 
 /* Create three equal columns that sits next to each other */
 .column {
     flex: 33.33%;
-    padding: 5px;
+    padding: 10px;
     height: 40px;
 }
 
@@ -105,7 +102,7 @@ h3 {
 }
 
 #introduction {
-    margin-top: 300px;
+    margin-top: 50px;
     text-align: center;
     margin-bottom: 50px;
 }
@@ -168,7 +165,7 @@ h6 {
 }
 
 #page-link a:hover {
-    border-bottom: 2px solid rgb(5, 81, 5);
+    border-bottom: 2px solid rgb(21,71,52);
 }
 
 /*About page text and images*/
