@@ -283,12 +283,13 @@ h3 {
 }
 
 /* Media queries */
-/*smartphones portrait annd lanscape*/
-
+/*smartphones portrait annd lanscape 320px - 480px */
 @media only screen and (min-width: 320px) and (max-width: 480px) {
+/* Header Image*/
     header {
         height: max-content;
     }
+/* Main Headings and Text*/    
     #title {
         font-size: 1.25em;
         float: none;
@@ -318,8 +319,9 @@ h3 {
         font-size: 0.75em;
     }
     p {
-        font-size: 0.5em;
+        font-size: 0.6em;
       }
+/*Home page 3 Images*/  
     .row {
          flex-direction: column;
          margin: auto;
@@ -331,6 +333,26 @@ h3 {
     .row,.column img {
         width: 100%;
         height: 100%;          
+    }
+/*Home page Text*/    
+    #introduction {
+        margin: 10px 0 10px 0;
+    }
+/*Footer Image*/
+    #footer {
+        height: fit-content;
+        bottom: 0;
+    } 
+    #footerimage {
+        height: fit-content;
+    }  
+    h6 {
+        font-size: 0.4em;
+        position: absolute;
+        margin-top: 15px;
+    } 
+    .social-media i {
+        font-size: 0.9em;
     }
 
 }
