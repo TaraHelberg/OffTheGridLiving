@@ -632,5 +632,14 @@ p {
     #gallery {
         column-count: 2;
     }
-            
+
+    /* Contact Us style */
+/*Form style*/
+    .contact_us {
+        height: 800px;        
+    }
+
+    .contact_us>h3 {
+        margin-top: 200px;       
+    }               
 }
