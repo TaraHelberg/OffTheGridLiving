@@ -20,13 +20,13 @@ header {
 }
 
 /*headings and main-title style*/
-h1 {
+h1 {   
     font-family: Acme, Helvetica, sans-serif;
     letter-spacing: 2px;
 }
 
 #title {
-    color: whitesmoke;
+    color: whitesmoke;    
     text-decoration: none;
     float: left;
     font-size: 2.5em;
@@ -107,36 +107,26 @@ h3 {
 }
 
 /*footer style*/
-#footer {
+.footer {
     position: sticky;
     bottom: 0;
     width: auto;
-    height: 50px;
-}
+    height: 70px; 
+       
+}  
 
-#footerimage {
-    background: url('../image/furnleaves.jpeg') no-repeat center center;
-    background-size: cover;
-    height: 60px;
-    margin: 0;
+.footer ul {
+    justify-content: center;
+    text-align: center;
 }
-
-.social-media {
-    display: flex;
-    justify-content: flex-end;
-    flex-wrap: wrap;
+    
+.footer li {
+    display: inline;    
 }
-
-.social-media>li {
-    margin-right: 30px;
-    float: right;
-    list-style: none;
-    margin: 1%;
-}
-
 .social-media i {
-    color: whitesmoke;
-    font-size: 30px;
+    color: rgb(21, 71, 52);
+    font-size: 2.5em;
+    margin: 2%;
 }
 
 /*style internal link about page*/
@@ -345,16 +335,6 @@ p {
         margin: 10px 0 10px 0;
     }
 
-    /*Footer Image*/
-    #footer {
-        height: fit-content;
-        bottom: 0;
-    }
-
-    #footerimage {
-        height: fit-content;
-    }
-
     .social-media i {
         font-size: 0.9em;
     }
@@ -485,16 +465,7 @@ p {
         margin: 15px 0 15px 0;
     }
 
-    /*Footer Image*/
-    #footer {
-        height: fit-content;
-        bottom: 0;
-    }
-
-    #footerimage {
-        height: fit-content;
-    }
- 
+    /*Footer Image*/  
     .social-media i {
         font-size: 1.2em;
     }
