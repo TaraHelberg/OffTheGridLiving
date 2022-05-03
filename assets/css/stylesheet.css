@@ -121,13 +121,6 @@ h3 {
     margin: 0;
 }
 
-h6 {
-    color: whitesmoke;
-    letter-spacing: 2px;
-    position: absolute;
-    margin-top: 30px;
-}
-
 .social-media {
     display: flex;
     justify-content: flex-end;
@@ -362,11 +355,6 @@ p {
         height: fit-content;
     }
 
-    h6 {
-        font-size: 0.4em;
-        margin-top: 15px;
-    }
-
     .social-media i {
         font-size: 0.9em;
     }
@@ -506,12 +494,7 @@ p {
     #footerimage {
         height: fit-content;
     }
-
-    h6 {
-        font-size: 0.6em;
-        margin-top: 15px;
-    }
-
+ 
     .social-media i {
         font-size: 1.2em;
     }
