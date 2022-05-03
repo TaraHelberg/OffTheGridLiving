@@ -14,8 +14,7 @@ body {
 
 /*header image style*/
 header {
-    background: url('../image/furnleaves.jpeg') no-repeat center center;
-    background-size: cover;
+    background-color:rgb(21, 71, 52) ;
     height: 70px;
 }
 
@@ -108,11 +107,11 @@ h3 {
 
 /*footer style*/
 .footer {
-    position: sticky;
+    background-color:rgb(21, 71, 52);    
+    height: 70px;    
     bottom: 0;
-    width: auto;
-    height: 70px; 
-       
+    width: auto; 
+    position: sticky;     
 }  
 
 .footer ul {
@@ -124,8 +123,8 @@ h3 {
     display: inline;    
 }
 .social-media i {
-    color: rgb(21, 71, 52);
-    font-size: 2.5em;
+    color: whitesmoke;
+    font-size: 2em;
     margin: 2%;
 }
 
