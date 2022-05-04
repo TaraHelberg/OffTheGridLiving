@@ -224,26 +224,26 @@ h3 {
 
 /*Gallery and tour style*/
 /*video style*/
-#videocontainer {
+/*#videocontainer {
     position: relative;
     overflow: hidden;
-    width: 80%;
-    padding: 10% 0 40% 20%;
-}
+    width: 70%;    
+    padding: 40% 20% 0 10%;
+}*/
 
 #video {
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    width: 80%;
-    height: 80%;
+    width: 60%;
+    height: 60%;
     border-radius: 1em;
     overflow: hidden;
 }
 
 #gallery {
-    margin-top: 5em;
+    margin-top: 30em;
     clear: both;
     line-height: 0;
     column-count: 4;
@@ -252,6 +252,7 @@ h3 {
 
 #gallery img {
     width: 100%;
+    height: 250px;
 }
 
 /* Contact Us style */
