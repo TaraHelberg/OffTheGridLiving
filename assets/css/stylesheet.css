@@ -42,7 +42,7 @@ h3 {
 /* navigation link style*/
 #menu {
     letter-spacing: 2px;
-    font-size: 24px;
+    font-size: 1.5em;
 }
 
 #menu, #title {
@@ -76,6 +76,35 @@ h3 {
 }
 
 /*main images*/
+/*Background Intoduction image*/
+.idealhome-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+.idealhome-image {
+    height: 600px;
+    width: 100%;
+    background: url('../image/earthship_idealhome\ .jpg') no-repeat center center;
+
+    /* animates zoom effect on loading page */
+    animation-name: idealhome-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
+/* creates the level of zoom for idealhome image */
+@keyframes hero-zoom {
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.1);
+    }
+}
+
+
 .row {
     display: flex;
     margin-top: 45px;
