@@ -26,7 +26,7 @@ h1 {
 
 #title {
     color: whitesmoke;    
-    text-decoration: none;
+    list-style: none;
     float: left;
     font-size: 2.5em;     
     padding-bottom: 20%;   
@@ -258,22 +258,20 @@ h3 {
 /* Contact Us style */
 /*Form style*/
 .contact_us {
-    margin-inline: 25%;
-    max-width: 400px;
-    padding: 30px;
+    padding: 3em 25em;     
 }
 
 .contact_us>h3 {
     color: rgb(21, 71, 52);
     letter-spacing: 2px;
-    margin-bottom: 20px;
+    padding-bottom: 1em;
+   
 }
 
-.contact_us>label,
-p {
+.contact_us>label, p {
     color: rgb(21, 71, 52);
     letter-spacing: 2px;
-    font-size: 16px;
+    font-size: 1em;
 }
 
 .f_input {    
@@ -300,4 +298,5 @@ p {
     background-color: whitesmoke;
     color: rgb(21, 71, 52);
 }
+
 
