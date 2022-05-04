@@ -129,17 +129,19 @@ h3 {
 }
 
 /*style internal link about page*/
-#page-link {
+#page-link {       
     margin-top: 20px;
     text-align: center;
 }
 
 #page-link a {
-    color: black;
+    background-color: rgb(21, 71, 52);
+    color: whitesmoke;
     font-size: 16px;
     letter-spacing: 2px;
     text-decoration: none;
     margin: 3%;
+    border-radius: 6%;
 }
 
 #page-link a:hover {
@@ -148,7 +150,10 @@ h3 {
 
 /*About page text and images*/
 #history {
-    margin: 50px 0 0 40px;
+    padding-top: 5%;
+    padding-bottom: 5%;    
+    padding-left: 20%;
+    padding-right: 20%;
 }
 
 #history p {
@@ -158,8 +163,10 @@ h3 {
 
 /*1 row with two columns*/
 .row1 {
-    display: flex;
-    margin-top: 50px;
+    display: flex;    
+    padding-bottom: 5%;    
+    padding-left: 20%;
+    padding-right: 20%;
 }
 
 .column1 {
@@ -176,8 +183,7 @@ h3 {
 
 .column1 img {
     width: 100%;
-    height: 300px;
-    border: 3px double black;
+    height: 300px;    
     border-radius: 8px;
 }
 
@@ -214,17 +220,6 @@ h3 {
 }
 
 /* Contact Us style */
-/*/image style*/
-.nightsky {
-    background-image: url(../image/earthship-night.jpg);
-    background-position: center;
-    background-size: cover;
-    margin: 50px 5%;
-    width: auto;
-    height: auto;
-    border-radius: 10px;
-}
-
 /*Form style*/
 .contact_us {
     margin-inline: 25%;
@@ -233,25 +228,24 @@ h3 {
 }
 
 .contact_us>h3 {
-    color: whitesmoke;
+    color: rgb(21, 71, 52);
     letter-spacing: 2px;
     margin-bottom: 20px;
 }
 
 .contact_us>label,
 p {
-    color: whitesmoke;
+    color: rgb(21, 71, 52);
     letter-spacing: 2px;
     font-size: 16px;
 }
 
-.f_input {
-    background: transparent;
-    color: whitesmoke;
+.f_input {    
+    color: rgb(21, 71, 52);
     width: 100%;
     height: 25px;
     margin: 5px 0 20px 0;
-    border: 2px solid whitesmoke;
+    border: 1px solid black;
     border-radius: 4px;
 }
 
