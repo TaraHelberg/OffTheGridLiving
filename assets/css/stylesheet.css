@@ -172,19 +172,18 @@ h3 {
 
 /*style internal link about page*/
 #page-link {       
-    margin: 3%; 
-       
+    margin: 4%; 
+    text-align: center;
 }
 
 #page-link a {
     background-color: rgb(21, 71, 52);
     color: whitesmoke;
     text-decoration: none;
-    letter-spacing: 2px;   
-    text-align: center;
+    letter-spacing: 2px;      
     border-radius: 0.3em;      
     padding: 0.3em;
-    margin-right: 0.8em;    
+    margin-right: 0.6em;    
 }
 
 #page-link a:hover {
