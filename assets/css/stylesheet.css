@@ -12,20 +12,21 @@ body {
     font-weight: 300;
 }
 
-/*header image style*/
+/*header style*/
 header {
     background-color:rgb(21, 71, 52) ;
-    height: 80px;
+    height: 5em;
 }
 
 /*headings and main-title style*/
 h1 {   
     font-family: Acme, Helvetica, sans-serif;
-    letter-spacing: 2px;    
+    letter-spacing: 2px;
+    text-decoration: none;      
 }
 
 #title {
-    color: whitesmoke;    
+    color: whitesmoke;        
     list-style: none;
     float: left;
     font-size: 2.5em;      
@@ -315,8 +316,36 @@ html {
 }
 /* Media queries */
 /*small smartphones portrait and landscape 320px - 480px */
-@media only screen and (min-width: 320px) and (max-width: 480px) {
-    
+@media only screen and (min-width: 320px) and (max-width: 480px) {     
+    /*headings and main-title style*/
+    #title {         
+        float: none;          
+        font-size: 1.25em;                     
+    }
+
+    #title img {
+        width: 1.3em;
+    }    
+
+    #menu {
+        font-size: 0.9em;        
+    }
+
+    #menu li {
+        float: none;
+        margin: 0 auto;
+        padding: 0;
+    }
+
+    #menu, #title {
+        line-height: 25px;
+    }
+  
+    h3 {
+        font-size: 0.9em;
+    }
+
+
 }
 
 
