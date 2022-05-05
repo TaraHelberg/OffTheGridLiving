@@ -171,9 +171,12 @@ h3 {
 }
 
 /*style internal link about page*/
+html {
+    scroll-behavior: smooth;
+}
 #page-link {       
     margin: 4%; 
-    text-align: center;
+    text-align: center;   
 }
 
 #page-link a {
