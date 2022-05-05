@@ -287,13 +287,28 @@ h3 {
     color: whitesmoke;
     background-color: rgb(21, 71, 52);
     border: 2px solid whitesmoke;
-    border-radius: 4px;
+    border-radius: 6em;
+    padding: 10px 28px 10px 28px;
+}
+
+.reset {
+    margin: 10px 0 20px 0;
+    font-size: 16px;
+    letter-spacing: 2px;
+    color: whitesmoke;
+    background-color: rgb(21, 71, 52);
+    border: 2px solid whitesmoke;
+    border-radius:  6em;
     padding: 10px 28px 10px 28px;
 }
 
 .submitform:hover {
     background-color: whitesmoke;
     color: rgb(21, 71, 52);
+}
+/*iframe google map*/
+#map {
+    width: 100%;
 }
 
 
