@@ -114,7 +114,7 @@ h3 {
     }
 }
 /*link images style*/
-.card {
+.card {    
     display: inline-block;    
     margin: 1.5em;
     margin-top: 4em;
@@ -373,14 +373,16 @@ html {
 }
 /*link images style*/
 .card { 
-    align-items: center;
-    justify-content: center; 
+    
+        
     margin-top: 2em;
     width: 200px;
     height: 175px;
   }
 
-.card img {  
+.card img {      
+    
+    vertical-align: middle;
     width: 200px;
     height: 175px;
 }  
