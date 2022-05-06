@@ -21,15 +21,18 @@ header {
 /*headings and main-title style*/
 h1 {   
     font-family: Acme, Helvetica, sans-serif;
-    letter-spacing: 2px;
-    text-decoration: none;      
+    letter-spacing: 2px;      
 }
 
 #title {
-    color: whitesmoke;        
-    list-style: none;
+    color: whitesmoke;    
     float: left;
     font-size: 2.5em;      
+}
+
+#title img {
+    width: 1em;
+    height: 1em;
 }
 
 h3 {
@@ -58,7 +61,7 @@ h3 {
 #menu li {
     margin-right: 30px;
     float: right;
-    list-style: none;
+    list-style-type: none;
     margin: 1%;
 }
 
@@ -316,38 +319,23 @@ html {
 }
 /* Media queries */
 /*small smartphones portrait and landscape 320px - 480px */
-@media only screen and (min-width: 320px) and (max-width: 480px) {     
-    /*headings and main-title style*/
-    #title {         
-        float: none;          
-        font-size: 1.25em;                     
-    }
-
+@media only screen and (min-width: 320px) and (max-width: 480px) { 
+   
+/*headings and main-title style*/
+    #title {           
+        float: none;
+        text-align: center;
+        padding: 10px;
+        margin: 0;                                                                                    
+    } 
+    
     #title img {
-        width: 1.3em;
-    }    
-
-    #menu {
-        font-size: 0.9em;        
+        width: 2em;
     }
 
     #menu li {
-        float: none;
+        float: none;        
         margin: 0 auto;
         padding: 0;
     }
-
-    #menu, #title {
-        line-height: 25px;
-    }
-  
-    h3 {
-        font-size: 0.9em;
-    }
-
-
-}
-
-
-
-
+}   
