@@ -115,8 +115,8 @@ h3 {
 }
 /*link images style*/
 .card {    
-    display: inline-block;    
-    margin: 1.5em;
+    display: inline-block;
+    margin: 1.6em;    
     margin-top: 4em;
     padding: 0.4em;
     padding-left: 0.6em;
@@ -209,7 +209,8 @@ html {
 /*About page text and images*/
 /*1 row with two columns*/
 .row {
-    display: flex;    
+    display: flex; 
+    flex: 50%;   
     padding-bottom: 1em;    
     padding-left: 14em;
     padding-right: 14em;
@@ -368,21 +369,18 @@ html {
 /*idealhome-image text style*/
 #idealhome-image h3 { 
     padding: 20%;   
-    width: 120px;
-    height: 50px;       
+    width: 140px;
+    height: 48px;       
 }
 /*link images style*/
 .card { 
-    
-        
-    margin-top: 2em;
+   /*margin-top: 1em;*/
+    margin: 2.9em;
     width: 200px;
     height: 175px;
   }
 
 .card img {      
-    
-    vertical-align: middle;
     width: 200px;
     height: 175px;
 }  
@@ -393,18 +391,37 @@ html {
 
  /*footer style*/   
   .social-media i {
+      margin-top: 1em;
         font-size: 1.2em;
     }
 
 /*About page */
 /*internal link about page*/
-  #page-link {
-        margin-top: auto;
-    }
-
     #page-link a {
         font-size: 0.5em;
     }
+
+/*About style*/
+/*History section with external links*/
+    #history {
+    padding-left: 3em;
+    padding-right: 3em;   
+}    
+/*About page text and images*/
+/*1 row with two columns*/
+.row {
+    flex-direction: column;
+    margin: 0;
+    padding-bottom: 0.2em;    
+    padding-left: 0;
+    padding-right: 6em;
+    }
+
+.column img {
+    object-fit: cover;
+    height: 10em;
+    }
+
   /*gallery and tour*/
     /*gallery*/
     #gallery {
