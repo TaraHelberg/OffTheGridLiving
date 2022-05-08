@@ -426,14 +426,16 @@ html {
     padding-left: 0;
     padding-right: 6em;
     }
-
-    object-fit: cover;
-    
-    }
-
   /*gallery and tour*/
+  /*video style*/
+#video {
+    margin-top: 4em;
+    width: 70%;
+    height: 50%;
+}
     /*gallery*/
     #gallery {
+        margin-top: 25em;
         column-count: 1;
     }
 
