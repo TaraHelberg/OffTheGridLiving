@@ -360,7 +360,6 @@ html {
     p {
         font-size: 0.6em;
     }
-
 /*main images*/
 /*Background Intoduction image*/
 #idealhome-outer {    
@@ -438,31 +437,35 @@ html {
         margin-top: 25em;
         column-count: 1;
     }
+/* Contact Us style */
+/*Form style*/
+.contact_us {
+    padding: 2em 4em  ;     
+}
 
-    /*contactus*/
-     /*form*/
-    .contact_us {
-        
-    }
+.contact_us>label, p {
+    font-size: 0.6em
+}
 
-    .contact_us>h3 {
-      
-    }
+.f_input {    
+    width: 100%;
+    height: 20px;
+    margin: 2.5px 0 10px 0;
+ }
 
-    .contact_us>label, p {
-        font-size: 0.6em;
-    }
+.submitform {
+    margin: 5px 0 10px 0;
+    font-size: 8px;
+    padding: 5px 14px 5px 14px;
+}
 
-    .f_input {
-        height: 12.5px;
-        margin: 2.5px 0 10px 0;
-    }
+.reset {
+    margin: 5px 0 10px 0;
+    font-size: 8px;
+    padding: 5px 14px 5px 14px;
+}
 
-    .submitform {
-        margin: 2.5px 0 5px 0;
-        font-size: 0.6em;
-        padding: 2.5px 7px 2.5px 7px;
-    }
+
 }
 
 /*medium smartphones portrait and landscape 481px - 768px */
