@@ -234,7 +234,7 @@ html {
 .column img {
     object-fit: cover;
     width: 100%;
-    height: 20em;    
+    height: 21em;    
     border-radius: 0.6em;
 }
 
@@ -427,9 +427,8 @@ html {
     padding-right: 6em;
     }
 
-.column img {
     object-fit: cover;
-    height: 10em;
+    
     }
 
   /*gallery and tour*/
