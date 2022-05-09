@@ -430,7 +430,7 @@ html {
 #video {
     margin-top: 4em;
     width: 70%;
-    height: 50%;
+    height: 50%;   
 }
     /*gallery*/
     #gallery {
@@ -520,6 +520,7 @@ html {
 }
 /*link images style*/
 .flex {
+    flex-direction: column;
     justify-content: center;
     align-items: center;  
     margin-top: 2em;   
@@ -569,11 +570,14 @@ html {
     padding-right: 8em;
     }
   /*gallery and tour*/
-  /*video style*/
-
+  #video {
+    margin-top: 3em ;
+    width: 60%;
+    height: 50%;    
+}
     /*gallery*/
     #gallery {
-        margin-top: 30em;
+        margin-top: 40em;
         column-count: 2;
     }
 /* Contact Us style */
@@ -583,7 +587,7 @@ html {
 }
 
 .contact_us>label, p {
-    font-size: 0.6em
+    font-size: 0.9em
 }
 
 .f_input {    
@@ -594,14 +598,14 @@ html {
      
 .submitform {
     margin: 5px 0 10px 0;
-    font-size: 8px;
+    font-size: 12px;
     padding: 5px 14px 5px 14px;
 }
  
 
 .reset {
     margin: 5px 0 10px 0;
-    font-size: 8px;
+    font-size: 12px;
     padding: 5px 14px 5px 14px;
 }
      
