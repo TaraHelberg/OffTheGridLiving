@@ -356,11 +356,11 @@ html {
     }
 
     h3 {
-        font-size: 0.75em;
+        font-size: 0.9em;
     }
 
     p {
-        font-size: 0.7em;
+        font-size: 0.8em;
     }
 /*main images*/
 /*Background Intoduction image*/
@@ -446,7 +446,7 @@ html {
 }
 
 .contact_us>label, p {
-    font-size: 0.7em
+    font-size: 0.8em
 }
 
 .f_input {    
