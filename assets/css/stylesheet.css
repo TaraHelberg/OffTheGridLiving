@@ -614,8 +614,8 @@ html {
      
 }
 
-/*ipads and tablets portrait and landscape 768px — 1024px */
-@media only screen and (min-width: 768px) and (max-width: 1024px) {
+/*ipads and tablets portrait and landscape 769px — 1024px */
+@media only screen and (min-width: 769px) and (max-width: 1024px) {
 /*header style*/
     header {
     height: 9em;
