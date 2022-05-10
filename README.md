@@ -1,12 +1,12 @@
 # Off The Grid Living  
 
-
+![amiresponsive](./assets/readmeimage/amiresponsive.png)
 
 Off The Grid Living is a landing site for those who are seeking to move from main stream living to off grid living.In this website you are introduced to the Earthship Eco home an innovative idea that addresses the 6 basic human needs and incorporates them right into the home enviroment. Making a Self Sustainable Eco home that is both off the grid and modern.
 
 Users of this website will be able to find information ont he 6 basic huan needs that are incorporated into the Earthship design along with links to further infrmation a lovely galery and video tur and a contact form should the user require further assistance or information.
 
-AM I RESPONSIVE PAGE IMAGE GOES HERE!
+
 
 # UX 
 
@@ -37,7 +37,7 @@ The Contact Us page is set up very clearly and minamilistic so as to not destrac
 
 # Home Page   
 
-HOME PAGE IMAGE GOES HERE.!
+
 
 * The Header and footer 
     + Background colour is in the chosen theme of colour of green with smokewhite font for visability.
