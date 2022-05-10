@@ -1,4 +1,4 @@
-# Off The Grid Living 
+# Off The Grid Living  
 
 Off The Grid Living is a landing site for those who are seeking to move from main stream living to off grid living.In this website you are introduced to the Earthship Eco home an innovative idea that addresses the 6 basic human needs and incorporates them right into the home enviroment. Making a Self Sustainable Eco home that is both off the grid and modern.
 
@@ -15,7 +15,12 @@ The about page starts witha breff history aquired from wikipedia and referened w
 The Gallery and tour section is set up with a iframe youtube video tour abut the Earthship eco home and is only playbale if the user decides to play it under this there are gallery images of the Earthship home both external and internal images to show the user what the home could and does look like.
 The Contact Us page is set up very clearly and minamilistic so as to not destract from the main point of getting contact information making to clean and easy to use under this is a Google Earth map that shows the location of the original Earthship location should the user be inclined to find them as an additional pull to the user to make contact.
 
-WIREFRAMES IMAGES GO HERE .!
+## Balsamiq Wireframes
+
+![ Home Page ](./assets/readmeimage/Home.png)
+![ About Page ](./assets/readmeimage/About.png)
+![ Gallery & Tour Page](./assets/readmeimage/Gallery%20%26%20Tour.png)
+![ Contact us Page ](./assets/readmeimage/Contact%20Us.png) 
 
 # Features
 * Navigation 
