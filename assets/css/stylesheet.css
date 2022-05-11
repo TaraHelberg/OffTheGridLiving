@@ -35,7 +35,7 @@ h1 {
     height: 1.4em;   
 }
 
-h3 {
+h2 {
     color: rgb(21, 71, 52);
     font-family: Acme, Helvetica, sans-serif;
     letter-spacing: 2px;
@@ -100,7 +100,7 @@ h3 {
     
 }   
     /*idealhome-image text style*/
-    #idealhome-image h3 {
+    #idealhome-image h2 {
     position: absolute;
     padding: 10%;
     width: 240px;
@@ -276,7 +276,7 @@ html {
     padding: 3em 25em;     
 }
 
-.contact_us>h3 {
+.contact_us>h2 {
     color: rgb(21, 71, 52);
     letter-spacing: 2px;
     padding-bottom: 1em;
@@ -360,7 +360,7 @@ html {
         line-height: 25px;
     }
 
-    h3 {
+    h2 {
         font-size: 0.9em;
     }
 
@@ -376,7 +376,7 @@ html {
     height: 10em ;    
 }
 /*idealhome-image text style*/
-#idealhome-image h3 { 
+#idealhome-image h2 { 
     text-align: left;
     padding: 17.5%;   
     width: 140px;
@@ -451,7 +451,7 @@ html {
     padding: 2em 4em  ;     
 }
 
-.contact_us h3 {
+.contact_us h2 {
     text-align: center;
 }
 
@@ -510,7 +510,7 @@ html {
         line-height: 25px;
     }
 
-    h3 {
+    h2 {
         font-size: 1em;
     }
 
@@ -526,7 +526,7 @@ html {
     height: 12em ;    
 }
 /*idealhome-image text style*/
-#idealhome-image h3 { 
+#idealhome-image h2 { 
     padding: 14%; 
     padding-left: 22%;  
     width: 170px;
