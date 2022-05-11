@@ -488,9 +488,13 @@ html {
 
 }
 
-/*mobilephones portrait and landscape screen size 640px and down */
+/*smartphones portrait and landscape screen size 640px and down */
 @media only screen and (max-width: 640px)  {
-   /*headings and main-title style*/
+ /*header style*/
+     header {
+        height: 5em;    
+        }
+ /*headings and main-title style*/
     #title {
         font-size: 1.5em;
         float: none;                
@@ -564,7 +568,10 @@ html {
     margin: 20px ;
     }
 
- /*footer style*/   
+ /*footer style*/
+ .footer {
+    height: 70px;    
+   }   
   .social-media i {
        font-size: 2em;
     }
@@ -669,8 +676,7 @@ html {
 }
 /*idealhome-image text style*/
 #idealhome-image h3 { 
-    padding: 14%; 
-    padding-left: 22%;  
+    padding: 60%; 
     width: 170px;
     height: 60px;       
 }
