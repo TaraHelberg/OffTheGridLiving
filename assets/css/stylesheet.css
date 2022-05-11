@@ -488,8 +488,8 @@ html {
 
 }
 
-/*medium smartphones portrait and landscape 481px - 768px */
-@media only screen and (min-width: 481px) and (max-width: 768px) {
+/*mobilephones portrait and landscape screen size 640px and down */
+@media only screen and (max-width: 640px)  {
    /*headings and main-title style*/
     #title {
         font-size: 1.5em;
@@ -635,8 +635,8 @@ html {
      
 }
 
-/*ipads and tablets portrait and landscape 769px — 1024px */
-@media only screen and (min-width: 769px) and (max-width: 1024px) {
+/*ipads and tablets portrait and landscape 641px — 1007px */
+@media only screen and (min-width: 641px) and (max-width: 1007px) {
 /*header style*/
     header {
     height: 9em;
@@ -720,8 +720,8 @@ html {
  
 }
 
-/*small screens and laptops landscape only 1025px — 1200px */
-@media only screen and (min-width: 769px) and (max-width: 1200px) {
+/*small screens and laptops landscape only 1008px and up */
+@media only screen and (min-width: 1008px) {
     /*link images style*/
      .card {
          margin: auto;
