@@ -40,9 +40,10 @@ Adjustments have been made from the original wireframes made for the project thi
 
 
 * The Header and footer 
-    + Background colour is in the chosen theme of colour of green with smokewhite font for visability.
-    + The Header shows the Website name with a logo of the Earth in front of it to the right is the navigaton menu bar clearly hsowing the pages of the website in an easy to use and understand manner.
+    + Background colour is in the chosen theme of colour of green with smoke white font for visibility.
+    + The Header shows the Website name with a logo of the Earth in front of it to the right is the navigation menu bar clearly showing the pages of the website in an easy to use and understand manner.
     + The Footer has the social media links to the middle of the footer and are clearly marked with known icons for the chosen social media.
+
 
  * Body
     + The Body of the home page gives an intoduction landing page that engaes the user and with clear information as to what the website is about .
