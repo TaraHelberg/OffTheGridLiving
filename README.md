@@ -27,13 +27,13 @@ Adjustments have been made from the original wireframes made for the project thi
 # Features
 * Navigation 
     
-    + Navigation Bar to the right of screen showing Home , About , Gallery and Tour and Contact us pages
-    + Navigation under the main Home page image are 3 link images which link to the About , Gallery and Tour and Contact Us pages respectively.
-    + In the footer are the 4 social media links .
+    + Navigation Bar to the right of screen showing Home, About, Gallery and Tour and Contact us pages
+    + Navigation under the main Home page image are 3 link images which link to the About, Gallery and Tour and Contact Us pages respectively.
+    + In the footer are the 4 social media links.
     + All navigation and social media links are clear against the header and footer back ground and make the website easy for the user to navigate.
-    + In the About page internal links are provided in a visable and easy to use manner that corolate to the information which they navigate to.
-    + In the Gallery and Tour a youtube video is provided for the user which will onl play if the user should choose.
-    + In the contact us page a conact for clearly marked and easy to use is provided and under this is a interactive google map which the user can click on to an external larger map. 
+    + In the About page internal links are provided in a visible and easy to use manner that correlate to the information which they navigate to.
+    + In the Gallery and Tour, a YouTube video is provided for the user which will only play if the user should choose.
+    + In the contact us page a contact for clearly marked and easy to use is provided and under this is an interactive google map which the user can click on to an external larger map. 
 
 # Home Page   
 
