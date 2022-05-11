@@ -71,7 +71,7 @@ Adjustments have been made from the original wireframes made for the project thi
 
 # Contact Us
 
-CONTACT US PAGE IMAGE GOES HERE.
+![Contact Us Page](./assets/readmeimage/ContactusPageWebcapture.jpeg)
 
 * Contact Us section
     + Here an Easy to understand and fill in Contact form is provided.
