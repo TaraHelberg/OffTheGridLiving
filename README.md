@@ -56,8 +56,10 @@ Adjustments have been made from the original wireframes made for the project thi
 ABOUT PAGE IMAGE GOES HERE !
 
 * The About section
-    + The about section has internal links at the top of the page visable and clearly labled to corilate to the information supplied within the about page.  
-    + THe About page provides important information and images about the core design and principles of the Earthship eco home and what it provides for the Off the Grid liveing and how it provides it. 
+    + The about section has internal links at the top of the page visible and clearly labelled to correlate to the information supplied within the about page.  
+    + The About page provides important information and images about the core design and principles of the Earthship eco home and what it provides for the Off the Grid living and how it provides it.
+
+ 
 
 # Gallery & Tour Page
 
