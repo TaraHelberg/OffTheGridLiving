@@ -372,9 +372,10 @@ html {
 }
 /*idealhome-image text style*/
 #idealhome-image h3 { 
-    padding: 20%;   
+    text-align: left;
+    padding: 17.5%;   
     width: 140px;
-    height: 48px;       
+    height: 50px;       
 }
 /*link images style*/
 .flex {
@@ -443,6 +444,10 @@ html {
 /*Form style*/
 .contact_us {
     padding: 2em 4em  ;     
+}
+
+.contact_us h3 {
+    text-align: center;
 }
 
 .contact_us>label, p {
