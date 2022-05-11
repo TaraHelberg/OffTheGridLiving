@@ -63,7 +63,7 @@ Adjustments have been made from the original wireframes made for the project thi
 
 # Gallery & Tour Page
 
-GALLERY AND TOUR PAGE IMAGE GOES HERE !
+![Gallery & Tour Page](./assets/readmeimage/GalleryandtourPageWebcapture.jpeg)
 
 * Gallery & Tour Section
     + Here the user is supplied with an informative and fun YouTube video relevant to the Earth Ship eco home
