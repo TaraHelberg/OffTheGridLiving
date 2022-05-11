@@ -46,9 +46,10 @@ Adjustments have been made from the original wireframes made for the project thi
 
 
  * Body
-    + The Body of the home page gives an intoduction landing page that engaes the user and with clear information as to what the website is about .
-    + 3 Link images elow the main image supply a visualy appealing means of navigaton and futher engae the user in a fun but user friendly means of navigating the site .
-    + A brief pharagaph futher engages the user with a snippet of information to entice the user to proceed further into the website. 
+    + The Body of the home page gives an introduction landing page that engages the user and with clear information as to what the website is about.
+    + 3 Link images below the main image supply a visually appealing means of navigation and further engage the user in a fun but user-friendly means of navigating the site.
+    + A brief paragraph further engages the user with a snippet of information to entice the user to proceed further into the website. 
+
 
 # About page
 
