@@ -66,16 +66,17 @@ ABOUT PAGE IMAGE GOES HERE !
 GALLERY AND TOUR PAGE IMAGE GOES HERE !
 
 * Gallery & Tour Section
-    + Here the user is supplied with a informative and fun youtube video relevant to the EarthShip eco home
-    + Under the youtub vieo the user is provided with visuals a gallery of the Earthship Eco home both internal and external images are provided.
+    + Here the user is supplied with an informative and fun YouTube video relevant to the Earth Ship eco home
+    + Under the YouTube video the user is provided with visuals a gallery of the Earthship Eco home both internal and external images are provided.
 
 # Contact Us
 
 CONTACT US PAGE IMAGE GOES HERE.
 
 * Contact Us section
-    + Here a Easy to understand and fill in Contact form is provided .
-    + Under the contact form a google map is provided showing the location of the Earthship Biotecture the map is able to open up on a larger exteranl page should the user whish to see the loaction.
+    + Here an Easy to understand and fill in Contact form is provided.
+    + Under the contact form a google map is provided showing the location of the Earthship Biotecture the map is able to open up on a larger external page should the user wish to see the location.
+
 
 # Technologies / Support Used
 
