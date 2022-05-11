@@ -15,7 +15,7 @@ body {
 /*header style*/
 header {
     background-color:rgb(21, 71, 52);    
-    height: 6em;
+    height: 6em;    
 }
 
 /*headings and main-title style*/
@@ -84,27 +84,31 @@ h3 {
     width: 100%;
     height: 300px;    
     position: relative;
+    overflow: hidden;
 }
 #idealhome-image {  
     width: 100%;
     height: 300px ;
     background: url(../image/earthship_idealhome.jpg) no-repeat center center;
-    background-size: cover;          
+    background-size: cover;
+         
 
     /* animates zoom effect on loading page */
     animation-name: earthship_idealhome-zoom;
     animation-duration: 5s;
     animation-fill-mode: forwards;
-}
-/*idealhome-image text style*/
-#idealhome-image h3 {
+    
+}   
+    /*idealhome-image text style*/
+    #idealhome-image h3 {
     position: absolute;
     padding: 10%;
     width: 240px;
     height: 100px;
     text-align: justify;
     color: whitesmoke;    
-}
+    }
+   
 /* creates the level of zoom for idealhome image */
 @keyframes earthship_idealhome-zoom {
     from{
@@ -223,6 +227,7 @@ html {
     display: flex;
     display: block;
     width: 100%;
+    height: 21em;
     padding: 3em;
 }
 
@@ -564,8 +569,8 @@ html {
 /*About style*/
 /*History section with external links*/
     #history {
-    padding-left: 5em;
-    padding-right: 5em;   
+    padding-left: 6em;
+    padding-right: 6em;   
 }  
        
 /*About page text and images*/
@@ -574,9 +579,11 @@ html {
     flex-direction: column;
     margin: 0;
     padding-bottom: 0.2em;    
-    padding-left: 2em;
-    padding-right: 8em;
+    padding-left: 3em;
+    padding-right: 9em;
     }
+
+
   /*gallery and tour*/
   #video {
     margin-top: 3em ;
