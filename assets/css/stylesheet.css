@@ -145,12 +145,13 @@ h2 {
   }
   
 .cardtext {
-    padding: 2px 16px;
+    padding: 10px 16px;
     text-align: center;
   }
 
 /* introduction text main screen*/
 #introduction {
+    padding: 4%;
     margin: 50px 0 50px 0;
     text-align: center;
 }
@@ -181,6 +182,7 @@ h2 {
     color: whitesmoke;
     font-size: 2em;
     margin: 2%;
+    
 }
 
 /*style internal link about page*/
