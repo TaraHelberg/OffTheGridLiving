@@ -84,26 +84,28 @@ CONTACT US PAGE IMAGE GOES HERE.
  
     + HTML is used to provide the structure and content of the website.
     + CSS is used via link to the HTML to provided style the pages.
-    + Code Institute lessons and the Love Running played a big role in assisting with my project .
-    + Loved Running provided the main structure and information for my Header and footer as well as the annimation information and inspiraton for the Home page first image and the image gallery in the Gallery and Tour section.In the contact us section from loved running contact form I have use the conact us form landing site in order to have my contact form land somewhere.
-    + Stack Overlow provided a lot of understanding and additional html code that I had to look up inorder to do the image links on the hoem page and understand the flex and row and column for my webpage as well as the understanding of iframes. 
+    + Code Institute lessons and the Love Running played a big role in assisting with my project.
+    + Loved Running provided the main structure and information for my Header and footer as well as the animation information and inspiration for the Home page first image and the image gallery in the Gallery and Tour section. In the contact us section from loved running contact form I have use the contact us form landing site in order to have my contact form land somewhere.
+    + Stack Overflow provided a lot of understanding and additional html code that I had to look up in order to do the image links on the home page and understand the flex and row and column for my webpage as well as the understanding of iframes. 
     + Git used to code within and provided backups of all my code.
-    + GitHub for my repository and extrnal project deployment.
+    + GitHub for my repository and external project deployment.
     + Google Fonts for my font choose for the project.
     + Font Awesome for my social media font icons.
     + Freeiconspng for the Earth Icon used in front of the website Name in the Headers.
 
 # Testing
 
-  * Testing During development of the pages was done throught the project to see how the project looked and felt
+  * Testing During development of the pages was done through the project to see how the project looked and felt
 
     + Testing done via git preview.   
     + Testing of the media queries was carried out via dev tools on Microsoft Edge.
     + HTML was tested through W3C Html validator
     + CSS was tested through W3C Css Validator 
-    + HTML was run through an online formatter ,FreeFormatter.com
+    + HTML was run through an online formatter, FreeFormatter.com
     + Responsive design media queries tested through Am I Responsive
-    + Deployed project was tested in my default browser Microsoft Edge as wells as  Google Chrome and Firefox.
+    + Deployed project was tested in my default browser Microsoft Edge as wells as Google Chrome and Firefox.
+
+
 
 # Bugs
 
