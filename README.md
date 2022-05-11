@@ -53,7 +53,7 @@ Adjustments have been made from the original wireframes made for the project thi
 
 # About page
 
-ABOUT PAGE IMAGE GOES HERE !
+![About Page](./assets/readmeimage/AboutPageWebcapture.jpeg)
 
 * The About section
     + The about section has internal links at the top of the page visible and clearly labelled to correlate to the information supplied within the about page.  
