@@ -106,46 +106,46 @@ CONTACT US PAGE IMAGE GOES HERE.
     + Deployed project was tested in my default browser Microsoft Edge as wells as Google Chrome and Firefox.
 
 
-
 # Bugs
 
-Debugging occured during the process of development and testing as the website was built as testing was done constantly as errors "bugs" where detected during testing I would use dev tools to see and test what would solve the particular error that occured and or do searches in the Technologies and support mentioned above and fix the errors as they occured.
+Debugging occurred during the process of development and testing as the website was built as testing was done constantly as errors "bugs" were detected during testing I would use dev tools to see and test what would solve the particular error that occurred and or do searches in the Technologies and support mentioned above and fix the errors as they occurred.
 
 # Validator Testing
 
 * Test Validators
     + HTML - W3C Html Validator - No errors returned when pass through
     + CSS - W3C CSS Validator - No errors returned when pass through
-    + ACCESABILITY - Am I Responsive ,Website tested for Performance ,Accessability ,Best Practice and SEO as seen below /Image of Test goes here/
+    + ACCESABILITY - Am I Responsive, Website tested for Performance, Accessibility, Best Practice and SEO as seen below /Image of Test goes here/
 
-# Deyployment of Project
+# Deployment of Project
 
-* Deyployment was made possible by GitHub
+* Deployment was made possible by GitHub
     + Initiated a repository in git
-    + Deyployment via git repository to the GitHub page and linking the main root to this and thus been hosted by GitHub.
+    + Deployment via git repository to the GitHub page and linking the main root to this and thus been hosted by GitHub.
 
 # Credits
 
    * Code Institute without who I would have had no base to begin a project
-   * GitHub for my workspace and saving all my work as wellas my deployed project
-   * Reuben Ferrante my mentor with out all his great guidence i would be lost and who also suggested the smooth-scroll for my internal links .A Huge Thanks .
+   * GitHub for my workspace and saving all my work as well as my deployed project
+   * Reuben Ferrante my mentor without all his great guidance I would be lost and who also suggested the smooth-scroll for my internal links. A Huge Thanks.
    * The Slack community - for someone always been there no matter the time and with advice or direction.
    * Balsamiq used to build the wireframes for my project.
    * Earthship Biotecture for the inspiration and information for my project
-   * Wikipedia Earthship section for information for my projet
-   * W3C Validators both HTML and CSS to keep a check on my code .
+   * Wikipedia Earthship section for information for my project
+   * W3C Validators both HTML and CSS to keep a check on my code.
    * I am Responsive for a fantastic spot to see a visual of responsiveness.
 
-* Coppied Code / Code assistance  
-As stated in Technologies / Support Used I used and sort out help and code from nemerous sources as well as fonts and icons. However I did exclusivly copie code from Love running for the animation on the home page and gallery. Stackover flow played a huge roll in my over all development esspecialy the card link images where code was coppied for most of the elements used in these.
+* Copied Code / Code assistance  
+As stated in Technologies / Support Used I used and sort out help and code from numerous sources as well as fonts and icons. However, I did exclusively copy code from Love running for the animation on the home page and gallery. Stack over flow played a huge roll in my overall development especially the card link images where code was copied for most of the elements used in these.
 
 # Imagery for Project
 
- * Images obtained via bing image search with the free to use ,modify and distribute license requirment on .. Image of this goes here.
+ * Images obtained via bing image search with the free to use, modify and distribute license requirement on. Image of this goes here.
 
- * Video Obtained from Youtube.
+ * Video Obtained from YouTube.
 
  * Map obtained from Google Maps.
+
 
 
 
