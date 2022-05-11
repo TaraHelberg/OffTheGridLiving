@@ -37,7 +37,7 @@ Adjustments have been made from the original wireframes made for the project thi
 
 # Home Page   
 
-
+![Home Page](./assets/readmeimage/HomePageWebcapture.jpeg)
 
 * The Header and footer 
     + Background colour is in the chosen theme of colour of green with smoke white font for visibility.
