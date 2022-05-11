@@ -99,13 +99,13 @@ h2 {
     animation-fill-mode: forwards;
     
 }   
-    /*idealhome-image text style*/
-    #idealhome-image h2 {
+ /*idealhome-image text style*/
+#idealhome-image h2 {
     position: absolute;
     padding: 10%;
     width: 240px;
     height: 100px;
-    text-align: justify;
+    text-align: left;
     color: whitesmoke;    
     }
    
@@ -331,7 +331,11 @@ html {
 /* Media queries */
 /*small smartphones portrait and landscape 320px - 480px */
 @media only screen and (min-width: 320px) and (max-width: 480px) { 
-   /*headings and main-title style*/
+  /*header style*/
+    header {
+    height: 4em;    
+    }
+    /*headings and main-title style*/
     #title {
         font-size: 1.25em;
         float: none;                
@@ -372,16 +376,18 @@ html {
 #idealhome-outer {    
     height: 10em;    
 }
+
 #idealhome-image {  
     height: 10em ;    
 }
+
 /*idealhome-image text style*/
-#idealhome-image h2 { 
-    text-align: left;
-    padding: 17.5%;   
-    width: 140px;
+#idealhome-image h2 {
+    padding: 17%;
+    width: 160px;
     height: 50px;       
-}
+    }
+   
 /*link images style*/
 .flex {
     flex-direction: column;
@@ -400,13 +406,16 @@ html {
     width: 175px;
     height: 150px;
 }  
-
  /* introduction text main screen*/
  #introduction {
     margin: 20px ;
     }
 
- /*footer style*/   
+ /*footer style*/  
+ .footer {
+    height: 60px;    
+   }  
+ 
   .social-media i {
       margin-top: 1em;
         font-size: 1.2em;
