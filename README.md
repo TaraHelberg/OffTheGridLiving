@@ -142,7 +142,7 @@ As stated in Technologies / Support Used I used and sort out help and code from 
 
 # Imagery for Project
 
- * Images obtained via bing image search with the free to use, modify and distribute license requirement on.
+ * Images obtained via bing image search with the free to use, modify and use license requirement on.
 
  ![Image Obtained](./assets/readmeimage/www.bing.comimagesearchWebcapture.jpeg)
 
