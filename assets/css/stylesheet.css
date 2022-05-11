@@ -280,6 +280,7 @@ html {
     color: rgb(21, 71, 52);
     letter-spacing: 2px;
     padding-bottom: 1em;
+    text-align: center;
    
 }
 
@@ -460,10 +461,6 @@ html {
     padding: 2em 4em  ;     
 }
 
-.contact_us h2 {
-    text-align: center;
-}
-
 .contact_us>label, p {
     font-size: 0.8em
 }
@@ -599,7 +596,6 @@ html {
     padding-right: 9em;
     }
 
-
   /*gallery and tour*/
   #video {
     margin-top: 3em ;
@@ -642,14 +638,13 @@ html {
      
 }
 
-/*ipads and tablets portrait and landscape 641px — 1007px */
-@media only screen and (min-width: 641px) and (max-width: 1007px) {
+/*ipads and tablets portrait and landscape 641px — 768px */
+@media only screen and (min-width: 641px) and (max-width: 768px) {
 /*header style*/
     header {
-    height: 9em;
+    height: 7.5em;
     }
 /*headings and main-title style*/
-   /*headings and main-title style*/
    #title {    
     float: none;                
                    
@@ -675,11 +670,9 @@ html {
     height: 20em;    
 }
 /*idealhome-image text style*/
-#idealhome-image h3 { 
-    padding: 60%; 
-    width: 170px;
-    height: 60px;       
-}
+#idealhome-image h2 {
+    padding: 20%;
+    }
 /*link images style*/
 .flex {
     flex-direction: column;
@@ -691,6 +684,11 @@ html {
 #introduction {
     margin: 80px ;    
     }
+/*About page */
+/*internal link about page*/
+#page-link a {
+    font-size: 0.9em;
+}    
 /*About style*/
 /*History section with external links*/
 #history {
@@ -715,7 +713,7 @@ html {
 }
     /*gallery*/
     #gallery {
-        margin-top: 45em;
+        margin-top: 40em;
         column-count: 2;
     }
     /* Contact Us style */
