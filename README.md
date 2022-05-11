@@ -85,7 +85,7 @@ Adjustments have been made from the original wireframes made for the project thi
     + HTML is used to provide the structure and content of the website.
     + CSS is used via link to the HTML to provided style the pages.
     + Code Institute lessons and the Love Running played a big role in assisting with my project.
-    + Loved Running provided the main structure and information for my Header and footer as well as the animation information and inspiration for the Home page first image and the image gallery in the Gallery and Tour section. In the contact us section from loved running contact form I have use the contact us form landing site in order to have my contact form land somewhere.
+    + Love Running provided the main structure and information for my Header and footer as well as the animation information and inspiration for the Home page first image and the image gallery in the Gallery and Tour section. In the contact us section from loved running contact form I have use the contact us form landing site in order to have my contact form land somewhere.
     + Stack Overflow provided a lot of understanding and additional html code that I had to look up in order to do the image links on the home page and understand the flex and row and column for my webpage as well as the understanding of iframes. 
     + Git used to code within and provided backups of all my code.
     + GitHub for my repository and external project deployment.
@@ -103,6 +103,7 @@ Adjustments have been made from the original wireframes made for the project thi
     + CSS was tested through W3C Css Validator 
     + HTML was run through an online formatter, FreeFormatter.com
     + Responsive design media queries tested through Am I Responsive
+    + Lighthouse used to test webpage for Performance,Accessibility,Best Practice and SEO
     + Deployed project was tested in my default browser Microsoft Edge as wells as Google Chrome and Firefox.
 
 
@@ -115,7 +116,8 @@ Debugging occurred during the process of development and testing as the website 
 * Test Validators
     + HTML - W3C Html Validator - No errors returned when pass through
     + CSS - W3C CSS Validator - No errors returned when pass through
-    + ACCESABILITY - Am I Responsive, Website tested for Performance, Accessibility, Best Practice and SEO as seen below /Image of Test goes here/
+    + RESPONSIVENESS - Am I Responsive for different divices media queries.
+    + LIGHTHOUSE - Website tested for Performance, Accessibility, Best Practice and SEO as seen below.
 
 # Deployment of Project
 
