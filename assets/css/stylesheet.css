@@ -226,7 +226,7 @@ html {
 .column {
     display: flex;
     display: block;
-    width: 100%;
+    flex-basis: 100%;
     height: 21em;
     padding: 3em;
 }
@@ -438,8 +438,14 @@ html {
 
 /*About page text and images*/
 /*1 row with two columns to 1 column*/
+.row {
+    display: contents;
+    flex-direction: column;
+    align-items: center;
+    }
 .column {
-    flex: 1;     
+    display: block;
+    flex: 1;      
 }
 
   /*gallery and tour*/
