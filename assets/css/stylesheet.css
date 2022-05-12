@@ -334,7 +334,7 @@ html {
 @media only screen and (min-width: 320px) and (max-width: 480px) { 
   /*header style*/
     header {
-    height: 4em;    
+    height: 4.5em;    
     }
     /*headings and main-title style*/
     #title a {
@@ -354,12 +354,16 @@ html {
     }
 
     #menu li { 
-        float: left;
-        display:block;      
-        margin: 0 auto;
-        padding: 0;
-        margin: auto;
+          float: left;
+         display: block;      
+         margin: 0 auto;
+         padding: 0;
+         margin: auto;
         
+    }
+
+    #menu, #title {
+        line-height: 30px;
     }
     
     h2 {
@@ -409,7 +413,10 @@ html {
     margin: 20px ;
     }
 
- /*footer style*/  
+ /*footer style*/
+    .footer {
+        height: 4.5em;
+    }
    .social-media i {
       padding-top: 3%;
       font-size: 1em;
@@ -418,15 +425,15 @@ html {
 /*About page */
 /*internal link about page*/
     #page-link a {
-        margin-top: 1em;
-        margin-right: 2.8em;
+       display: inline-block;
+       margin: 2%;
     }
 
 /*About style*/
 /*History section with external links*/
 #history {
-    padding-left: 0;
-    padding-right: 0;
+    padding-left: 3em;
+    padding-right: 3em;
 }
 
 /*About page text and images*/
@@ -476,18 +483,17 @@ html {
 
 }
 
-/*smartphones portrait and landscape screen size 640px and down */
-@media only screen and (max-width: 640px)  {
+/*smartphones portrait and landscape screen 481px - 640px */
+@media only screen and (min-width: 481px) and (max-width: 640px) {
  /*header style*/
      header {
         height: 7em;    
         }
  /*headings and main-title style*/
-    /*headings and main-title style*/
-    #title a {
-        font-size: 1.5em;
-        float: none;                
-        margin: 0;
+      #title a {
+       font-size: 1.5em;
+       float: none;                
+       margin: 0;
     }
 
     #title img {
@@ -528,10 +534,9 @@ html {
 }
 /*idealhome-image text style*/
 #idealhome-image h2 { 
-    padding: 14%; 
-    padding-left: 22%;  
+    padding: 10%; 
     width: 170px;
-    height: 60px;       
+    height: 40px;       
 }
 /*link images style*/
 .flex {
