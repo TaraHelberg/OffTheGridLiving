@@ -810,8 +810,8 @@ html {
     
 }
 
-/*small screens and laptops landscape only 1008px and up */
-@media only screen and (min-width: 1008px) {
+/* laptops landscape only 1025p - 1440px */
+@media only screen and (min-width: 1025px) and (max-width: 1440px) {
     /*link images style*/
      .card {
          margin: auto;
