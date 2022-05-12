@@ -19,18 +19,17 @@ header {
 }
 
 /*headings and main-title style*/
-h1 {   
+#title a {
     font-family: Acme, Helvetica, sans-serif;
     letter-spacing: 2px;
-}
-
-#title {
-    color: whitesmoke;    
+    color: whitesmoke; 
+    text-decoration: none;   
     float: left;
-    font-size: 2.5em;      
+    font-size: 1.4em         
 }
 
 #title img {
+    display: inline;
     width: 1.4em; 
     height: 1.4em;   
 }
