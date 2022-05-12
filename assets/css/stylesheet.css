@@ -29,7 +29,6 @@ header {
 }
 
 #title img {
-    display: inline;
     width: 1.4em; 
     height: 1.4em;   
 }
@@ -188,7 +187,7 @@ html {
     scroll-behavior: smooth;
 }
 #page-link {       
-    margin: 4%; 
+    margin: 5%; 
     text-align: center;   
 }
 
@@ -337,10 +336,9 @@ html {
     height: 4em;    
     }
     /*headings and main-title style*/
-    #title {
-        font-size: 1.25em;
+    #title a {
+        font-size: 1.3em;
         float: none;                
-        padding: 1%;
         margin: 0;
     }
 
@@ -350,23 +348,20 @@ html {
     }
 
     #menu {
-        font-size: 0.75em;
+        font-size: 1em;
     }
 
-    #menu li {  
+    #menu li { 
         float: left;
         display:block;      
         margin: 0 auto;
         padding: 0;
+        margin: auto;
         
     }
     
-    #menu, #title {
-        line-height: 25px;
-    }
-
     h2 {
-        font-size: 0.9em;
+        font-size: 1em;
     }
 
     p {
@@ -384,7 +379,7 @@ html {
 
 /*idealhome-image text style*/
 #idealhome-image h2 {
-    padding: 17%;
+    padding: 20%;
     width: 160px;
     height: 50px;       
     }
@@ -413,19 +408,16 @@ html {
     }
 
  /*footer style*/  
- .footer {
-    height: 60px;    
-   }  
- 
-  .social-media i {
-      margin-top: 1em;
-        font-size: 1.2em;
+   .social-media i {
+      padding-top: 3%;
+      font-size: 1em;
     }
 
 /*About page */
 /*internal link about page*/
     #page-link a {
-        font-size: 0.5em;
+        margin-top: 1em;
+        margin-right: 2.8em;
     }
 
 /*About style*/
