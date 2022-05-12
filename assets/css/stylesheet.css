@@ -334,15 +334,15 @@ html {
 @media only screen and (min-width: 320px) and (max-width: 480px) { 
     /*headings and main-title style*/
     #title a {
-        font-size: 1em;
+        font-size: 0.9em;
         float: none;
         text-align: center;               
         margin: 0;
     }
 
     #title img {
-        width: 1em;
-        height: 1em;
+        width: 0.9em;
+        height: 0.9em;
     }
 
     #menu {
