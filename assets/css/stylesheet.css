@@ -447,7 +447,6 @@ html {
     display: block;
     flex: 1;      
 }
-
   /*gallery and tour*/
   /*video style*/
 #video {
@@ -578,26 +577,28 @@ html {
 /*About page */
 /*internal link about page*/
 #page-link a {
-  display: inline-block;  
-}
+    display: inline-block;
+    margin: 2%;
+ }
 
 /*About style*/
 /*History section with external links*/
     #history {
-    padding-left: 6em;
-    padding-right: 6em;   
+    padding-left: 3em;
+    padding-right: 3em;   
 }  
        
 /*About page text and images*/
-/*1 row with two columns*/
+/*1 row with two columns to 1 column*/
 .row {
+    display: contents;
     flex-direction: column;
-    margin: 0;
-    padding-bottom: 0.2em;    
-    padding-left: 3em;
-    padding-right: 9em;
+    align-items: center;
     }
-
+.column {
+    display: block;
+    flex: 1;      
+}
   /*gallery and tour*/
   #video {
     margin-top: 3em ;
@@ -606,8 +607,7 @@ html {
 }
     /*gallery*/
     #gallery {
-        margin-top: 40em;
-        column-count: 2;
+       column-count: 2;
     }
 /* Contact Us style */
 /*Form style*/
@@ -631,7 +631,6 @@ html {
     padding: 5px 14px 5px 14px;
 }
  
-
 .reset {
     margin: 5px 0 10px 0;
     font-size: 12px;
@@ -647,7 +646,7 @@ html {
     height: 7.5em;
     }
 /*headings and main-title style*/
-   #title {    
+   #title a {    
     float: none;                
                    
     }
@@ -689,7 +688,8 @@ html {
 /*About page */
 /*internal link about page*/
 #page-link a {
-    font-size: 0.9em;
+  display: inline-block;
+  margin: 2%;
 }    
 /*About style*/
 /*History section with external links*/
@@ -699,14 +699,16 @@ html {
 }  
        
 /*About page text and images*/
-/*1 row with two columns*/
+/*1 row with two columns to 1 column*/
 .row {
+    display: contents;
     flex-direction: column;
-    margin: 0;
-    padding-bottom: 0.2em;    
-    padding-left: 6em;
-    padding-right: 12em;
+    align-items: center;
     }
+.column {
+    display: block;
+    flex: 1;      
+}
      /*gallery and tour*/
   #video {
     margin-top: 3em ;
@@ -715,8 +717,7 @@ html {
 }
     /*gallery*/
     #gallery {
-        margin-top: 40em;
-        column-count: 2;
+       column-count: 2;
     }
     /* Contact Us style */
 /*Form style*/
