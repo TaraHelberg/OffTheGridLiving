@@ -729,6 +729,84 @@ html {
 
 /*small screens and laptops 769px - 1024px */
 @media only screen and (min-width: 769px) and (max-width: 1024px) {
+ /*header style*/
+ header {
+    height: 8em;
+    }
+/*headings and main-title style*/
+   #title a {    
+    float: none;                
+                   
+    }
+/* navigation link style*/
+    #menu li {  
+    float: left;
+    display:block;      
+    margin: 0 auto;
+    padding: 0;
+    }
+
+    #menu, #title {
+        line-height: 50px;
+    }
+   
+/*main images*/
+/*Background Intoduction image*/
+#idealhome-outer {    
+    height: 20em;    
+}
+#idealhome-image {  
+    height: 20em;    
+}
+/*idealhome-image text style*/
+#idealhome-image h2 {
+    padding: 20%;
+    }
+/*link images style*/
+.flex {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;  
+    margin-top: 2em;   
+}
+/* introduction text main screen*/
+#introduction {
+    margin: 80px ;    
+    }
+/*About page */
+/*History section with external links*/
+#history {
+    padding-left: 9em;
+    padding-right: 9em;   
+}  
+       
+/*About page text and images*/
+/*1 row with two columns to 1 column*/
+.row {
+    display: contents;
+    flex-direction: column;
+    align-items: center;
+    }
+.column {
+    display: block;
+    flex: 1;      
+}
+     /*gallery and tour*/
+  #video {
+    margin-top: 3em ;
+    width: 60%;
+    height: 50%;    
+}
+    /*gallery*/
+    #gallery {
+       margin-top: 50em ;
+       column-count: 2;
+    }
+    /* Contact Us style */
+/*Form style*/
+.contact_us {
+    padding: 2em 12em  ;     
+}
     
 }
 
