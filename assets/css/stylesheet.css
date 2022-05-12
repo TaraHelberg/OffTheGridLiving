@@ -215,8 +215,9 @@ html {
 /*About page text and images*/
 /*1 row with two columns*/
 .row {
-    display: flex; 
-    flex: 50%;   
+    display: flex;
+    flex-direction: row; 
+    flex-wrap: 100%;
     padding-bottom: 1em;    
     padding-left: 14em;
     padding-right: 14em;
@@ -422,19 +423,17 @@ html {
 
 /*About style*/
 /*History section with external links*/
-    #history {
-    padding-left: 3em;
-    padding-right: 3em;   
-}    
-/*About page text and images*/
-/*1 row with two columns*/
-.row {
-    flex-direction: column;
-    margin: 0;
-    padding-bottom: 0.2em;    
+#history {
     padding-left: 0;
-    padding-right: 6em;
-    }
+    padding-right: 0;
+}
+
+/*About page text and images*/
+/*1 row with two columns to 1 column*/
+.column {
+    flex: 1;     
+}
+
   /*gallery and tour*/
   /*video style*/
 #video {
@@ -444,8 +443,7 @@ html {
 }
     /*gallery*/
     #gallery {
-        margin-top: 10em;
-        column-count: 1;
+      column-count: 1;
 }    
 /* Contact Us style */
 /*Form style*/
