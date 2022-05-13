@@ -718,7 +718,7 @@ html {
 }
     /*gallery*/
     #gallery {
-       margin-top: 38em;
+       margin-top: 35em;
        column-count: 2;
     }
     /* Contact Us style */
@@ -804,7 +804,7 @@ html {
 }
     /*gallery*/
     #gallery {
-       margin-top: 50em ;
+       margin-top: 55em ;
        column-count: 2;
     }
     /* Contact Us style */
@@ -816,8 +816,11 @@ html {
 }
 
 /* Desktops and laptops ----------- */
-@media only screen and (min-width : 1224px) {
-        
+@media only screen and (min-width : 1024px) {
+  /*gallery*/
+    #gallery {
+       margin-top: 55em ;       
+    }      
 }
 
 /* Large screens ----------- */
