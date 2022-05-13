@@ -150,6 +150,8 @@ As stated in Technologies / Support Used I used and sort out help and code from 
  * Video Obtained from YouTube.
 
  * Map obtained from Google Maps.
+ ### Note 
+ * All information images ,youtube video and map are for educational usage only .All care has been taken to reference and give credit to any and all informationa and imagery within this project.
 
 
 
