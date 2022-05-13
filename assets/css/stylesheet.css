@@ -536,7 +536,8 @@ html {
 }
 /*idealhome-image text style*/
 #idealhome-image h2 { 
-    padding: 10%; 
+    padding-top: 13%;
+    padding-left: 28%; 
     width: 170px;
     height: 40px;       
 }
@@ -609,7 +610,7 @@ html {
 /* Contact Us style */
 /*Form style*/
 .contact_us {
-    padding: 2em 4em  ;     
+    padding: 4.5em 6.5em  ;     
 }
 
 .contact_us>label, p {
