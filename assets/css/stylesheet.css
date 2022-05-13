@@ -831,12 +831,12 @@ html {
 @media only screen and (min-width : 1824px) {
     /*header style*/
     header {     
-        height: 8em;    
+        height: 9em;    
     }
 
     /*footer style*/
     .footer {
-        height: 8em;
+        height: 9em;
     }
 }
  
