@@ -350,7 +350,7 @@ html {
     }
 
     #menu li { 
-          float: left;
+         float: left;
          display: block;      
          margin: 0 auto;
          padding: 0;
@@ -381,8 +381,8 @@ html {
 
 /*idealhome-image text style*/
 #idealhome-image h2 {
-    padding-left: 25%;
-    padding-top: 10%;
+    padding-left: 30%;
+    padding-top: 13%;
     width: 160px;
     height: 50px;       
     }
