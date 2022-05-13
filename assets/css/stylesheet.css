@@ -162,7 +162,7 @@ h2 {
 /*footer style*/
 .footer {
     background-color:rgb(21, 71, 52);    
-    height: 6em;    
+    height: 5.5em;    
     bottom: 0;
     width: auto; 
     position: sticky;     
@@ -817,6 +817,10 @@ html {
 
 /* Desktops and laptops ----------- */
 @media only screen and (min-width : 1024px) {
+    /*footer style*/
+    .footer {
+        height: 6em;
+    }
   /*gallery*/
     #gallery {
        margin-top: 55em ;       
@@ -825,6 +829,14 @@ html {
 
 /* Large screens ----------- */
 @media only screen and (min-width : 1824px) {
+    /*header style*/
+    header {     
+        height: 8em;    
+    }
 
+    /*footer style*/
+    .footer {
+        height: 8em;
+    }
 }
  
