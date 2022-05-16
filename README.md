@@ -115,8 +115,8 @@ Debugging occurred during the process of development and testing as the website 
 # Validator Testing
 
 * Test Validators
-    + HTML - W3C Html Validator - No errors returned when pass through
-    + CSS - W3C CSS Validator - No errors returned when pass through
+    + HTML - W3C Html Validator - No errors returned when pass through .
+    + CSS - W3C CSS Validator - No errors returned when pass through .
     + RESPONSIVENESS - Am I Responsive for different divices media queries.
     + LIGHTHOUSE - Website tested for Performance, Accessibility, Best Practice and SEO as seen below.
 
@@ -128,15 +128,16 @@ Debugging occurred during the process of development and testing as the website 
 
 # Credits
 
-   * Code Institute without who I would have had no base to begin a project
-   * GitHub for my workspace and saving all my work as well as my deployed project
-   * Reuben Ferrante my mentor without all his great guidance I would be lost and who also suggested the smooth-scroll for my internal links. A Huge Thanks.
-   * The Slack community - for someone always been there no matter the time and with advice or direction.
-   * Balsamiq used to build the wireframes for my project.
-   * Earthship Biotecture for the inspiration and information for my project
-   * Wikipedia Earthship section for information for my project
-   * W3C Validators both HTML and CSS to keep a check on my code.
-   * I am Responsive for a fantastic spot to see a visual of responsiveness.
+   * Code Institute without who I would have had no base to begin a project & Readme.md Template .https://codeinstitute.net/ie/
+   * GitHub for my workspace and saving all my work as well as my deployed project . https://github.com/
+   * Reuben Ferrante my mentor without all his great guidance I would be lost. A Huge Thanks. https://github.com/arex18
+   * The Slack community - for someone always been there no matter the time and with advice or direction. https://slack.com
+   * Balsamiq used to build the wireframes for my project. https://balsamiq.com
+   * Earthship Biotecture for the inspiration and information for my project . https://www.earthshipglobal.com/
+   * Wikipedia Earthship section for information for my project . https://en.wikipedia.org/wiki/Earthship
+   * W3C Validators both HTML and CSS to keep a check on my code. The W3C Markup Validation Service
+https://validator.w3.org
+   * I am Responsive for a fantastic spot to see a visual of responsiveness. https://ui.dev/amiresponsive?msclkid=400b1adabe5b11ecbc48938198bb87b4
 
 * Copied Code / Code assistance  
 As stated in Technologies / Support Used I used and sort out help and code from numerous sources as well as fonts and icons. However, I did exclusively copy code from Love running for the animation on the home page and gallery. Stack over flow played a huge roll in my overall development especially the card link images where code was copied for most of the elements used in these.
