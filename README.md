@@ -133,11 +133,14 @@ Debugging occurred during the process of development and testing as the website 
    * Reuben Ferrante my mentor without all his great guidance I would be lost. A Huge Thanks. https://github.com/arex18
    * The Slack community - for someone always been there no matter the time and with advice or direction. https://slack.com
    * Balsamiq used to build the wireframes for my project. https://balsamiq.com
+   * Free Convert - for compressing my images for better upload time . https://www.freeconvert.com/image-compressor
    * Earthship Biotecture for the inspiration and information for my project . https://www.earthshipglobal.com/
    * Wikipedia Earthship section for information for my project . https://en.wikipedia.org/wiki/Earthship
+   * StackOverflow for all the information to assit with my project .https://stackoverflow.com
    * W3C Validators both HTML and CSS to keep a check on my code. The W3C Markup Validation Service
 https://validator.w3.org
    * I am Responsive for a fantastic spot to see a visual of responsiveness. https://ui.dev/amiresponsive?msclkid=400b1adabe5b11ecbc48938198bb87b4
+   * Lighthouse testing system whom I can't find a webpage link for but am grateful for been able to use.
 
 * Copied Code / Code assistance  
 As stated in Technologies / Support Used I used and sort out help and code from numerous sources as well as fonts and icons. However, I did exclusively copy code from Love running for the animation on the home page and gallery. Stack over flow played a huge roll in my overall development especially the card link images where code was copied for most of the elements used in these.
@@ -147,23 +150,31 @@ As stated in Technologies / Support Used I used and sort out help and code from 
  * Images obtained via bing image search with the free to use, modify and use license requirement on.
 
  ![Image Obtained](./assets/readmeimage/www.bing.comimagesearchWebcapture.jpeg)
- + Pinterest : Animated Main Page image 
- + Pinterest : 1st Image Link on home page 
- + Pinterest : 2nd Image Link on home page
- + Pinterest : 3rd Image Link on home page 
- + Pinterest : Shelter Image on about page
- + Pinterest : Water Image on about page
- + Pinterest : Food Image on about page
- + Ecowatch & Flickr : Engery Image on about page 
- + Pinterest : Heating & Cooling Image on about page 
- + Earthshipbiotecture : Sewage Treatment Image on about page
- + Pinterest & Flickr : Images in Gallery Tour page 
+ + Pinterest : Animated Main Page image . https://za.pinterest.com/pin/771663717379713012/
+ + Pinterest : 1st Image Link on home page . https://www.pinterest.com/pin/420031102723281141/
+ + Pinterest : 2nd Image Link on home page . https://za.pinterest.com/pin/570338740314880765/
+ + Pinterest : 3rd Image Link on home page . https://za.pinterest.com/pin/137219119869206207/
+ + Pinterest : Shelter Image on about page . https://za.pinterest.com/pin/64105994682573791/
+ + Pinterest : Water Image on about page .   https://za.pinterest.com/pin/540432024033800851/
+ + Pinterest : Food Image on about page .    https://za.pinterest.com/pin/646125877779140387/ 
+ + Pinterest : Engery Image on about page .  https://za.pinterest.com/pin/405464772683234829/
+ + Pinterest : Heating & Cooling Image on about page . https://www.pinterest.jp/pin/497507090071974157/ 
+ + Earthshipbiotecture : Sewage Treatment Image on about page . https://earthshipbiotecture.com/courses/contained-sewage-treatment/
+ + Pinterest & Flickr : Images in Gallery Tour page .
+ Image 1 .https://www.flickr.com/photos/larrymyhre/20710971675
+ Image 2 .https://za.pinterest.com/pin/756393699903166713/
+ Image 3 .https://za.pinterest.com/pin/7881368085878522/
+ Image 4 .https://www.flickr.com/photos/theentiremikey/488503838/in/album-72157594338573623/
+ Image 5 .https://za.pinterest.com/pin/486529565975074381/
+ Image 6 .https://za.pinterest.com/pin/734720126682872351/
+ Image 7 .https://za.pinterest.com/pin/776237685747676010/
+ Image 8 .https://za.pinterest.com/pin/107101297374620086/
 
- * Video Obtained from YouTube.
+ * Video Obtained from YouTube. https://youtu.be/BPbUXaXpMBM
 
- * Map obtained from Google Maps.
+ * Map obtained from Google Maps. https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d821104.3701197553!2d-105.75306200000001!3d36.495265!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xcf5c80f165441e8f!2sEarthship%20Biotecture!5e0!3m2!1sen!2sie!4v1651753100178!5m2!1sen!2sie
  ### Note 
- * All information images ,youtube video and map are for educational usage only .All care has been taken to reference and give credit to any and all informationa and imagery within this project.
+ * All information images ,youtube video and map are for educational usage only .All care has been taken to reference and give credit to any and all information and imagery within this project. Whilst images are gained using free search with the license set for free use I have tried to trace images further they do however appear on other site's .
 
 
 
