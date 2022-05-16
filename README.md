@@ -4,13 +4,13 @@
 
 Off The Grid Living is a landing site for those who are seeking to move from main stream living to off grid living. In this website you are introduced to the Earthship Eco home an innovative idea that addresses the 6 basic human needs and incorporates them right into the home environment. Making a Self-Sustainable Eco home that is both off the grid and modern.
 
-Users of this website will be able to find information on the 6 basic human needs that are incorporated into the Earthship design along with links to further information a lovely gallery and video tur and a contact form should the user require further assistance or information.
+Users of this website will be able to find information on the 6 basic human needs that are incorporated into the Earthship design along with links to further information a lovely gallery and video tour and a contact form should the user require further assistance or information.
 
 
 # UX 
 
 I wanted to aim for a visually appealing website that also imparted information to the user on the Earthship Eco Home as an Off The Grid Living option.
-Keeping the site clean and sleek whilst engaging the user with the website whilst adding a touch of fun.
+Keeping the site clean and sleek as well as engaging the user with the website whilst adding a touch of fun.
 On the home page I went for an animated introduction picture on the home that zooms in order to draw the eye to the home's look and feel. Under this I added 3 images that link to the other 3 pages of the site making it fun and visually appealing to keep the user engaged. Under these 3 images I added a short introduction in order to entice and add value to the information to follow.
 The about page starts with a brief history acquired from Wikipedia and referenced within the history paragraph with a link to this site, also here I have added at the end of the history paragraph for more information 2 external links to the original Earthship website and again to Wikipedia. The about page information is set up in a row column format with information to one side and an image to another so the user can choose to glance at the images or read the information either way the information is visible and understandable the hope is the images entice the user to read the information.
 The Gallery and tour section is set up with an iframe YouTube video tour about the Earthship eco home and is only playable if the user decides to play it under this there are gallery images of the Earthship home both external and internal images to show the user what the home could and does look like.
