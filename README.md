@@ -99,16 +99,19 @@ Adjustments have been made from the original wireframes made for the project thi
   * Testing During development of the pages was done through the project to see how the project looked and felt
 
   * Manual Testing
-    | Feature                           | Expect                                                                                                                                          | Action   | Result                                          |
-|-----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|----------|-------------------------------------------------|
-| Header Title                      | To go to Home Page                                                                                                                              | Click On | Taken to Home Page                              |
-| Header Menu Bar                   | To go to the named page                                                                                                                         | Click On | Taken to the correct  named page                |
-| Footer Social Media Icons         | To go to new page of  the Icon Link                                                                                                             | Click On | Taken to social media page associated to Icon   |
-| Image links                       | To go to the named page                                                                                                                         | Click On | Taken to correct named page                     |
-| Internal Links on About page      | To smoothly scroll down page to the named section                                                                                               | Click On | Smoothly scrolled to the named section          |
-| External Links in History Section | To go to new page of named Link                                                                                                                 | Click On | Taken to external page of named link            |
-| YouTube Video                     | Only to play if user initiates ,sound on only if user initiates , large screen only if user initiates, watch on you tube only if user initiates | Click On | When appropriate choices made all features work |
-| Google Map                        | View larger map and view externally  only if user initiates action                                                                              | Click On | When appropriate choices made all features work |
+
+     **Feature**                       | **Expect**                                                                                                                                      |**Action **| **Result**                                      
+-----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|-------------|-------------------------------------------------
+ Header Title                      | To go to Home Page                                                                                                                              | Click On    | Taken to Home Page                              
+ Header Menu Bar                   | To go to the named page                                                                                                                         | Click On    | Taken to the correct  named page                
+ Footer Social Media Icons         | To go to new page of  the Icon Link                                                                                                             | Click On    | Taken to social media page associated to Icon   
+ Image links                       | To go to the named page                                                                                                                         | Click On    | Taken to correct named page                     
+ Internal Links on About page      | To smoothly scroll down page to the named section                                                                                               | Click On    | Smoothly scrolled to the named section          
+ External Links in History Section | To go to new page of named Link                                                                                                                 | Click On    | Taken to external page of named link            
+ YouTube Video                     | Only to play if user initiates ,sound on only if user initiates , large screen only if user initiates, watch on you tube only if user initiates | Click On    | When appropriate choices made all features work 
+ Google Map                        | View larger map and view externally  only if user initiates action                                                                              | Click On    | When appropriate choices made all features work 
+
+
 
    + Testing done via git preview.   
    + Testing done via git preview.   
