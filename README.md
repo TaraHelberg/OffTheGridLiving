@@ -178,14 +178,15 @@ As stated in Technologies / Support Used I used and sort out help and code from 
  + Pinterest : Heating & Cooling Image on about page . https://www.pinterest.jp/pin/497507090071974157/ 
  + Earthshipbiotecture : Sewage Treatment Image on about page . https://earthshipbiotecture.com/courses/contained-sewage-treatment/
  + Pinterest & Flickr : Images in Gallery Tour page .
- Image 1 .https://www.flickr.com/photos/larrymyhre/20710971675
- Image 2 .https://za.pinterest.com/pin/756393699903166713/
- Image 3 .https://za.pinterest.com/pin/7881368085878522/
- Image 4 .https://www.flickr.com/photos/theentiremikey/488503838/in/album-72157594338573623/
- Image 5 .https://za.pinterest.com/pin/486529565975074381/
- Image 6 .https://za.pinterest.com/pin/734720126682872351/
- Image 7 .https://za.pinterest.com/pin/776237685747676010/
- Image 8 .https://za.pinterest.com/pin/107101297374620086/
+
+ + Image 1 . https://www.flickr.com/photos/larrymyhre/20710971675
+ + Image 2 . https://za.pinterest.com/pin/756393699903166713/
+ + Image 3 . https://za.pinterest.com/pin/7881368085878522/
+ + Image 4 . https://www.flickr.com/photos/theentiremikey/488503838/in/album-72157594338573623/
+ + Image 5 . https://za.pinterest.com/pin/486529565975074381/
+ + Image 6 . https://za.pinterest.com/pin/734720126682872351/
+ + Image 7 . https://za.pinterest.com/pin/776237685747676010/
+ + Image 8 . https://za.pinterest.com/pin/107101297374620086/
 
  * Video Obtained from YouTube. https://youtu.be/BPbUXaXpMBM
 
