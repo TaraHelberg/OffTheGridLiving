@@ -110,7 +110,7 @@ Adjustments have been made from the original wireframes made for the project thi
 
 # Bugs
 
-Debugging occurred during the process of development and testing as the website was built as testing was done constantly as errors "bugs" were detected during testing I would use dev tools to see and test what would solve the particular error that occurred and or do searches in the Technologies and support mentioned above and fix the errors as they occurred.
+Debugging occurred during the process of development and testing as the website was built as testing was done constantly as errors "bugs" were detected during testing I would use dev tools to see and test what would solve the particular error that occurred and or do searches in the Technologies and support mentioned above and fix the errors as they occurred. In the final teting it was discovered that the title in the header did not ork as a link after inspecting the html code it was discovered that the closing </a> link tag was in the incorrect place this error was then corrected.
 
 # Validator Testing
 
@@ -146,6 +146,17 @@ As stated in Technologies / Support Used I used and sort out help and code from 
  * Images obtained via bing image search with the free to use, modify and use license requirement on.
 
  ![Image Obtained](./assets/readmeimage/www.bing.comimagesearchWebcapture.jpeg)
+ + Pinterest : Animated Main Page image 
+ + Pinterest : 1st Image Link on home page 
+ + Pinterest : 2nd Image Link on home page
+ + Pinterest : 3rd Image Link on home page 
+ + Pinterest : Shelter Image on about page
+ + Pinterest : Water Image on about page
+ + Pinterest : Food Image on about page
+ + Ecowatch & Flickr : Engery Image on about page 
+ + Pinterest : Heating & Cooling Image on about page 
+ + Earthshipbiotecture : Sewage Treatment Image on about page
+ + Pinterest & Flickr : Images in Gallery Tour page 
 
  * Video Obtained from YouTube.
 
