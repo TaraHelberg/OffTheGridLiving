@@ -98,6 +98,17 @@ Adjustments have been made from the original wireframes made for the project thi
 
   * Testing During development of the pages was done through the project to see how the project looked and felt
 
+  * Manual Testing
+
+  Feature | Expect |  Action | Result
+  :-------|:------:|:-------:|:-----:
+
+  
+    + Header Title link , clicked on - takes back to main home page .
+    + Header Menu Bar links Home, About, Gallery & Tour and Contact us ,clicked on - takes to correct pages. 
+    + Image Links on Main Page , clicked on - takes to correct pages
+    + Footer Image Icons 4 , clicked on - all 4 icons take to a new tab to correct sites.
+
     + Testing done via git preview.   
     + Testing of the media queries was carried out via dev tools on Microsoft Edge.
     + HTML was tested through W3C Html validator
