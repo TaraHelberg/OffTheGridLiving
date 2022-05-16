@@ -106,7 +106,7 @@ Adjustments have been made from the original wireframes made for the project thi
     + Responsive design media queries tested through Am I Responsive
     + Lighthouse used to test webpage for Performance,Accessibility,Best Practice and SEO
     + Deployed project was tested in my default browser Microsoft Edge as wells as Google Chrome and Firefox.
-
+![Light House Test](./assets/readmeimage/lighthouse.png)
 
 # Bugs
 
