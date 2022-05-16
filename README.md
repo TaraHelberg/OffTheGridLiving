@@ -100,12 +100,12 @@ Adjustments have been made from the original wireframes made for the project thi
 
   * Manual Testing
 
-  # Feature     | Expect         |  Action |  Result
-  :-------------|:---------------|:--------|:-------
-    Title Link  | When clicked   | click on| Return     
-                  returned to              to Home
-                  Home Page                Page 
-                                          
+  # Feature     | Expect         |  Action  |  Result
+  :-------------:----------------:----------:--------
+    Title Link  | When clicked   | click on | Return     
+                | returned to    |          | to Home
+                | Home Page      |          | Page 
+  --------------------------------------------------                                        
   
     
     + Header Menu Bar links Home, About, Gallery & Tour and Contact us ,clicked on - takes to correct pages. 
