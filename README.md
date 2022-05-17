@@ -111,13 +111,10 @@ Adjustments have been made from the original wireframes made for the project thi
 |YouTube Video      |Play on request       |Click On |Plays on user request    |
 |Google Map         |External if requested |Click On |External on user request |
  
-   + Testing done via git preview.   
-   + Testing done via git preview.   
+     
    + Testing done via git preview.   
    + Testing of the media queries was carried out via dev tools on Microsoft Edge.
    + HTML was tested through W3C Html validator
-   + CSS was tested through W3C Css Validator 
-   + CSS was tested through W3C Css Validator 
    + CSS was tested through W3C Css Validator 
    + HTML was run through an online formatter, FreeFormatter.com
    + Responsive design media queries tested through Am I Responsive
