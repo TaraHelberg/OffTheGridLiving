@@ -147,6 +147,9 @@ Debugging occurred during the process of development and testing as the website 
    * Reuben Ferrante my mentor without all his great guidance I would be lost. A Huge Thanks. https://github.com/arex18
    * The Slack community - for someone always been there no matter the time and with advice or direction. https://slack.com
    * Balsamiq used to build the wireframes for my project. https://balsamiq.com
+   * Google Fonts for my font choose for the project. https://fonts.google.com
+   * Font Awesome for my social media font icons. https://fontawesome.com
+   * Freeiconspng for the Earth Icon used in front of the website Name in the Headers. https://www.freeiconspng.com/img/14988
    * Free Convert - for compressing my images for better upload time . https://www.freeconvert.com/image-compressor
    * Earthship Biotecture for the inspiration and information for my project . https://www.earthshipglobal.com/
    * Wikipedia Earthship section for information for my project . https://en.wikipedia.org/wiki/Earthship
