@@ -137,8 +137,11 @@ Debugging occurred during the process of development and testing as the website 
 # Deployment of Project
 
 * Deployment was made possible by GitHub
-    + Initiated a repository in git
-    + Deployment via git repository to the GitHub page and linking the main root to this and thus been hosted by GitHub.
+    + Initiated a repository in git : https://github.com/TaraHelberg/OffTheGridLiving
+    + Deployment via git repository in the GitHub go to settings tab
+    + Go to GiHub Page and linking the main root to Master Branch 
+    + Once this is done the page will automatically creat the ribbon with the http host page name that is been hosted by GitHub.
+    The live link can be found here : https://tarahelberg.github.io/OffTheGridLiving/
 
 # Credits
 
