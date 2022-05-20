@@ -139,7 +139,8 @@ Adjustments have been made from the original wireframes made for the project thi
 
 # Bugs
 
-Debugging occurred during the process of development and testing as the website was built as testing was done constantly as errors "bugs" were detected during testing I would use dev tools to see and test what would solve the particular error that occurred and or do searches in the Technologies and support mentioned above and fix the errors as they occurred. In the final teting it was discovered that the title in the header did not ork as a link after inspecting the html code it was discovered that the closing </a> link tag was in the incorrect place this error was then corrected.
+Debugging occurred during the process of development and testing as the website was built as testing was done constantly as errors "bugs" were detected during testing I would use dev tools to see and test what would solve the particular error that occurred and or do searches in the Technologies and support mentioned above and fix the errors as they occurred.
+In the final teting it was discovered that the title in the header did not work as a link after inspecting the html code it was discovered that the closing </a> link tag was in the incorrect place this error was then corrected.
 
 # Validator Testing
 
