@@ -179,7 +179,7 @@ https://validator.w3.org
    * Lighthouse testing system whom I can't find a webpage link for but am grateful for been able to use.
 
 * Copied Code / Code assistance  
-As stated in Technologies / Support Used I used and sort out help and code from numerous sources as well as fonts and icons. However, I did exclusively copy code from Love running for the animation on the home page and gallery. Stack over flow played a huge roll in my overall development especially the card link images where code was copied for most of the elements used in these.
+As stated in Technologies / Support Used I used and sort out help and code from numerous sources as well as fonts and icons. However, I did exclusively copy code from Love running for the animation on the home page and gallery. Stack over flow played a huge roll in my overall development especially the card link images where code was copied for most of the elements used in these.I also used the pattern code to set the pattern in the contact form for the phone number from Stack over flow.
 
 # Imagery for Project
 
