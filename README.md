@@ -124,7 +124,7 @@ Adjustments have been made from the original wireframes made for the project thi
       1. That the site was about Off Grid Living Eco home Earthships,
       2. The navigation was clear and I could easily go to the information I was seeking,
       3. I was informed and drawn into the site,
-      4. I was able to seek in more information via links and via a contact form. 
+      4. I was able to seek for more information via links and via a contact form. 
 
      
    + Testing done via git preview.   
