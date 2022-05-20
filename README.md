@@ -111,6 +111,21 @@ Adjustments have been made from the original wireframes made for the project thi
 |YouTube Video      |Play on request       |Click On |Plays on user request    |
 |Google Map         |External if requested |Click On |External on user request |
  
+* User Testing
+
+    + Expectations
+      As a user I wanted the site to 
+      1. Understand the purpose of the site, 
+      2. Be able to navigate easily through the site,
+      3. Be informed and drawn into the site,
+      4. Be able to seek more information.
+    + Result
+      As a user I was able to  
+      1. That the site was about Off Grid Living Eco home Earthships,
+      2. The navigation was clear and I could easily go to the information I was seeking,
+      3. I was informed and drawn into the site,
+      4. I was able to seek in more information via links and via a contact form. 
+
      
    + Testing done via git preview.   
    + Testing of the media queries was carried out via dev tools on Microsoft Edge.
