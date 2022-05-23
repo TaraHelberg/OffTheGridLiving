@@ -325,6 +325,7 @@ html {
 /*iframe google map*/
 #map {
     width: 100%;
+    display: block;
 }
 /* Media queries */
 /*small smartphones portrait and landscape 320px - 480px */
