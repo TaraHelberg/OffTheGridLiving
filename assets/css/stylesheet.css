@@ -362,22 +362,10 @@ html {
     }
 /*main images*/
 /*Background Intoduction image*/
-#idealhome-outer {    
-    height: 10em;    
-}
-
-#idealhome-image {  
+#idealhome-mainsection {  
     height: 10em ;    
 }
 
-/*idealhome-image text style*/
-#idealhome-image h2 {
-    padding-left: 30%;
-    padding-top: 13%;
-    width: 160px;
-    height: 50px;       
-    }
-   
 /*link images style*/
 .flex {
     flex-direction: column;
@@ -520,18 +508,8 @@ html {
     }
 /*main images*/
 /*Background Intoduction image*/
-#idealhome-outer {    
-    height: 12em;    
-}
-#idealhome-image {  
+#idealhome-mainsection {  
     height: 12em ;    
-}
-/*idealhome-image text style*/
-#idealhome-image h2 { 
-    padding-top: 13%;
-    padding-left: 28%; 
-    width: 170px;
-    height: 40px;       
 }
 /*link images style*/
 .flex {
@@ -633,7 +611,7 @@ html {
 @media only screen and (min-width: 641px) and (max-width: 768px) {
 /*header style*/
     header {
-    height: 7.5em;
+    height: 11em;
     }
 /*headings and main-title style*/
    #title a {    
@@ -649,21 +627,14 @@ html {
     }
 
     #menu, #title {
-        line-height: 50px;
+        line-height: 45px;
     }
    
 /*main images*/
 /*Background Intoduction image*/
-#idealhome-outer {    
-    height: 20em;    
+#idealhome-mainsection {  
+    height: 14em;    
 }
-#idealhome-image {  
-    height: 20em;    
-}
-/*idealhome-image text style*/
-#idealhome-image h2 {
-    padding: 20%;
-    }
 /*link images style*/
 .flex {
     flex-direction: column;
@@ -725,7 +696,7 @@ html {
 @media only screen and (min-width: 768px) and (max-width: 1024px) {
  /*header style*/
  header {
-    height: 8em;
+    height: 10em;
     }
 /*headings and main-title style*/
    #title a {    
@@ -743,20 +714,7 @@ html {
     #menu, #title {
         line-height: 50px;
     }
-   
-/*main images*/
-/*Background Intoduction image*/
-#idealhome-outer {    
-    height: 20em;    
-}
-#idealhome-image {  
-    height: 20em;    
-}
-/*idealhome-image text style*/
-#idealhome-image h2 {
-    padding-left: 26%;
-    padding-top: 13%;
-    }
+ 
 /*link images style*/
 .flex {
     flex-direction: column;
