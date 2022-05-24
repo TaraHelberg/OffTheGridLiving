@@ -154,7 +154,10 @@ In the final teting it was discovered that the title in the header did not work 
 
 * Deployment was made possible by GitHub
     + Initiated a repository in git : https://github.com/TaraHelberg/OffTheGridLiving
-    + Deployment via git repository in the GitHub go to settings tab
+    + Created all folders and files and code project
+    + Go to GitHub website
+    + Go to my repository in the GitHub
+    + Go to Settings tab click on
     + Go to GiHub Page and linking the main root to Master Branch 
     + Once this is done the page will automatically creat the ribbon with the http host page name that is been hosted by GitHub.
     The live link can be found here : https://tarahelberg.github.io/OffTheGridLiving/
