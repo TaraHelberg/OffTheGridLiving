@@ -208,7 +208,6 @@ html {
 .row {
     display: flex;
     flex-direction: row; 
-    flex-wrap: 100%;
     padding-bottom: 1em;    
     padding-left: 14em;
     padding-right: 14em;    
