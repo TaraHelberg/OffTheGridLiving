@@ -78,16 +78,10 @@ h2 {
 
 /*main images*/
 /*Background Intoduction image*/
-#idealhome-outer { 
+#idealhome-mainsection {  
     width: 100%;
-    height: 300px;    
-    position: relative;
-    overflow: hidden;
-}
-#idealhome-image {  
-    width: 100%;
-    height: 300px ;
-    background: url(../image/earthship_idealhome.jpg) no-repeat center center;
+    height: 20em;
+    background:linear-gradient(rgba(0 0 0 / 50%), rgb(0 0 0 / 47%)), url(../image/earthship_idealhome.jpg) no-repeat center center; 
     background-size: cover;
          
 
@@ -98,13 +92,12 @@ h2 {
     
 }   
  /*idealhome-image text style*/
-#idealhome-image h2 {
-    position: absolute;
-    padding: 10%;
-    width: 240px;
-    height: 100px;
-    text-align: left;
-    color: whitesmoke;    
+#idealhome-text {  
+    color: whitesmoke;
+    text-align: center; 
+    padding-top: 5em;
+    padding-left: 4em;  
+    padding-right: 4em;   
     }
    
 /* creates the level of zoom for idealhome image */
