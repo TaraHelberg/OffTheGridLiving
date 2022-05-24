@@ -78,6 +78,9 @@ Adjustments have been made from the original wireframes made for the project thi
     + Here an Easy to understand and fill in Contact form is provided.
     + Under the contact form a google map is provided showing the location of the Earthship Biotecture the map is able to open up on a larger external page should the user wish to see the location.
 
+# 404 Error Page Not found
+
+![404.html Page Not Found](./assets/readmeimage/404PageWebcapture.jpeg)
 
 # Technologies / Support Used
 
