@@ -235,23 +235,18 @@ html {
 
 /*Gallery and tour style*/
 /*video style*/
+.background {
+    background-color: black;
+}
 #video {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    width: 60%;
-    height: 60%;
-    border-radius: 1em;
-    overflow: hidden;
+    width: 100%;        
 }
 /*gallery style*/
-#gallery {
-    margin-top: 30em;
+#gallery {    
     clear: both;
     line-height: 0;
     column-count: 4;
-    column-gap: 0;
+    column-gap: 0;    
 }
 
 #gallery img {
@@ -425,13 +420,7 @@ html {
     flex: 1;      
 }
   /*gallery and tour*/
-  /*video style*/
-#video {
-    margin-top: 4em;
-    width: 70%;
-    height: 50%;   
-}
-    /*gallery*/
+     /*gallery*/
     #gallery {
       column-count: 1;
 }    
@@ -568,12 +557,7 @@ html {
     flex: 1;      
 }
   /*gallery and tour*/
-  #video {
-    margin-top: 3em ;
-    width: 60%;
-    height: 50%;    
-}
-    /*gallery*/
+     /*gallery*/
     #gallery {
        column-count: 2;
     }
@@ -674,15 +658,9 @@ html {
     padding-right: 9em;      
 }
      /*gallery and tour*/
-  #video {
-    margin-top: 2em ;
-    width: 70%;
-    height: 45%;     
-}
     /*gallery*/
     #gallery {
-       margin-top: 35em;
-       column-count: 2;
+      column-count: 2;
     }
     /* Contact Us style */
 /*Form style*/
@@ -747,14 +725,8 @@ html {
     padding-right: 9em;     
 }
      /*gallery and tour*/
-  #video {
-    margin-top: 3em ;
-    width: 60%;
-    height: 50%;    
-}
-    /*gallery*/
+     /*gallery*/
     #gallery {
-       margin-top: 55em ;
        column-count: 2;
     }
     /* Contact Us style */
@@ -771,10 +743,6 @@ html {
     .footer {
         height: 6em;
     }
-  /*gallery*/
-    #gallery {
-       margin-top: 55em ;       
-    }      
 }
 
 /* Large screens ----------- */
