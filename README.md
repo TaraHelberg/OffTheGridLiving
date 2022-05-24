@@ -82,6 +82,10 @@ Adjustments have been made from the original wireframes made for the project thi
 
 ![404.html Page Not Found](./assets/readmeimage/404PageWebcapture.jpeg)
 
+* 404.html Section
+    + Header with page Title and Navigation menu visable to indicate the page.
+    + 404 Error message visable with an appology and request to try again later.
+
 # Technologies / Support Used
 
 * Below is a list of Technologies / Support I have used to build my site.
