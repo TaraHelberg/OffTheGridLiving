@@ -318,7 +318,8 @@ html {
 /*404 Page Not Found*/
 #pgnotfound {
     text-align: center;
-    font-size: 5em;
+    font-size: 2em;
+    padding: 3em;
 }
 /* Media queries */
 /*small smartphones portrait and landscape 320px - 480px */
