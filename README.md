@@ -169,6 +169,19 @@ In the final teting it was discovered that the title in the header did not work 
     + Once this is done the page will automatically creat the ribbon with the http host page name that is been hosted by GitHub.
     The live link can be found here : https://tarahelberg.github.io/OffTheGridLiving/
 
+# Clone Project 
+
+* Cloning of Project was made possible by GitHub
+    + Go to Git Hub
+    + Go to Off The Grid Living repository https://github.com/TaraHelberg/OffTheGridLiving
+    + Click on it to go to main repository site 
+    + Click on the Code drop down button menu next to the greeen Gippod button
+    + Click on HTTP section you will see the http of the repository clikc on the window next to it it will say copied
+    + Clikced on Download and Zip
+    + Clicked on Open with GitHubDesktop
+ 
+
+
 # Credits
 
    * Code Institute without who I would have had no base to begin a project & Readme.md Template .https://codeinstitute.net/ie/
